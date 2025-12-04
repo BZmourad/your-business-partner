@@ -22,7 +22,7 @@
                                     <div class="head-icon">
                                         <i class='bx bxs-envelope'></i>
                                     </div>
-                                    <a href="lotfialimi@gmail.com"><span>lotfialimi@gmail.com</span></a>
+                                    <a href="mailto:ybp.businesstn@gmail.com"><span>ybp.businesstn@gmail.com</span></a>
                                 </li>
                             </ul>
                         </div>
@@ -196,16 +196,24 @@
                 <h2>{{ __("Contact Us", [], $l) }}</h2>
                 <ul>
                     <li>
-                        <i class='bx bx-current-location'></i>
-                        {{ __("Address", [], $l) }}: {{ __("5 -ème étage bureau 2 , immeuble ALQUDS : 85-87 Rue de La Palestine, Tunis, Tunis, Tunisia, 1002", [], $l) }}
+                        <i class='bx bx-mail-send'></i>
+                        <a href="mailto:ybp.businesstn@gmail.com"><span>ybp.businesstn@gmail.com</span></a>
                     </li>
                     <li>
-                        <i class='bx bx-mail-send'></i>
-                        <a href="lotfialimi@gmail.com"><span>lotfialimi@gmail.com</span></a>
+                        <i class='bx bx-mobile'></i>
+                        <a href="tel:+21624674032">+216 24 674 032</a>
+                    </li>
+                    <li>
+                        <i class='bx bx-mobile'></i>
+                        <a href="tel:+21620674366">+216 20 674 366</a>
                     </li>
                     <li>
                         <i class='bx bx-phone-call'></i>
-                        <a href="tel:+21624674032"> +216 24674032</a>
+                        <a href="tel:+21636643848">+216 36 643 848</a>
+                    </li>
+                    <li>
+                        <i class='bx bx-current-location'></i>
+                        {{ __("Address", [], $l) }}: {{ __("5 -ème étage bureau 2 , immeuble ALQUDS : 85-87 Rue de La Palestine, Tunis, Tunis, Tunisia, 1002", [], $l) }}
                     </li>
                 </ul>
             </div>
@@ -287,10 +295,10 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="banner-content banner-two-content">
-                        <span>{{ __("Expert Tax Consulting for Businesses in Tunisia", [], $l)}}</span>
-                        <h1>{{ __("Meet Our Experts & Get Better Result & Success", [], $l)}}</h1>
+                        <span>{{ __("Your Comprehensive Business Partner in Tunisia", [], $l)}}</span>
+                        <h1>{{ __("Expert Business Solutions for Success in the Tunisian Market", [], $l)}}</h1>
                         <p>
-                            {{ __("Reliable tax advisory services tailored to Tunisian and international regulations.", [], $l)}}
+                            {{ __("Complete business services from company creation to investment consulting and premium business support. Your trusted partner for success in Tunisia.", [], $l)}}
                         </p>
                         <div class="banner-btn">
                             <a href="#contact" class="contact-btn">{{ __("Contact Us", [], $l)}}</a>

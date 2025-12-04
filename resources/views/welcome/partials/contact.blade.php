@@ -4,19 +4,28 @@
             <div class="row">
                 <div class="col-lg-4 col-sm-6 col-md-4">
                     <div class="contact-card">
-                        <i class='bx bxs-phone'></i>
+                        <i class='bx bxs-mobile'></i>
                         <div class="content">
                             <h3>{{ __("Contact Number", [], $l)}}</h3>
-                            <p><a href="tel:+21624674032">+216 24674032</a></p>
+                            <p><a href="tel:+21624674032">+216 24 674 032</a></p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-4">
                     <div class="contact-card">
-                        <i class='bx bx-map'></i>
+                        <i class='bx bxs-mobile'></i>
                         <div class="content">
-                            <h3>{{ __("Address", [], $l)}}</h3>
-                            <p>{{ __("5 -ème étage bureau 2 , immeuble ALQUDS : 85-87 Rue de La Palestine, Tunis, Tunis, Tunisia, 1002", [], $l)}}</p>
+                            <h3>{{ __("Contact Number", [], $l)}}</h3>
+                            <p><a href="tel:+21620674366">+216 20 674 366</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-md-4">
+                    <div class="contact-card">
+                        <i class='bx bxs-phone'></i>
+                        <div class="content">
+                            <h3>{{ __("Contact Number", [], $l)}}</h3>
+                            <p><a href="tel:+21636643848">+216 36 643 848</a></p>
                         </div>
                     </div>
                 </div>
@@ -25,7 +34,16 @@
                         <i class='bx bx-envelope'></i>
                         <div class="content">
                             <h3>{{ __("Email", [], $l)}}</h3>
-                            <p><a href="lotfialimi@gmail.com"><span>lotfialimi@gmail.com</span></a></p>
+                            <p><a href="mailto:ybp.businesstn@gmail.com"><span>ybp.businesstn@gmail.com</span></a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8 col-sm-6 col-md-4">
+                    <div class="contact-card">
+                        <i class='bx bx-map'></i>
+                        <div class="content">
+                            <h3>{{ __("Address", [], $l)}}</h3>
+                            <p>{{ __("5 -ème étage bureau 2 , immeuble ALQUDS : 85-87 Rue de La Palestine, Tunis, Tunis, Tunisia, 1002", [], $l)}}</p>
                         </div>
                     </div>
                 </div>
@@ -35,7 +53,7 @@
     <div class="apply-area pt-100 pb-70">
         <div class="container">
             <div class="section-title text-center">
-                <h2>{{ __("Consulting Quote", [], $l)}}</h2>
+                <h2>{{ __("Contact us", [], $l)}}</h2>
             </div>
             <div class="row pt-45">
                 <div class="col-lg-12">

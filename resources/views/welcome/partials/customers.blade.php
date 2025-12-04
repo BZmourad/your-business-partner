@@ -1,3 +1,12 @@
+<div class="services-area pt-100 pb-70" id="customers">
+    <div class="container">
+        <div class="service-widget-title">
+            <div class="section-title text-center">
+                <h2>{{ __("Our Customers", [], $l)}}</h2>
+            </div>
+        </div>
+    </div>
+</div>
 <section id="customers" class="py-5 bg-light">
     <div class="container">
         <div class="row">
@@ -64,3 +73,4 @@
         </div>
     </div>
 </section>
+

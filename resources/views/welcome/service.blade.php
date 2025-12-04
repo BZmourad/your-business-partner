@@ -1,37 +1,9 @@
-@php
-    $services = [
-        [
-            'slug' => 'conseil_fiscal_entreprises',
-            'name' => 'Conseil fiscal aux entreprises',
-            'description' => 'Service de conseil fiscal spécialisé pour les entreprises',
-            'icon' => 'fas fa-handshake'
-        ],
-        [
-            'slug' => 'declarations_fiscales',
-            'name' => 'Déclarations fiscales',
-            'description' => 'Préparation et dépôt des déclarations fiscales',
-            'icon' => 'fas fa-file-alt'
-        ],
-        [
-            'slug' => 'creation_entreprise',
-            'name' => 'Création d\'entreprise',
-            'description' => 'Assistance à la création d\'entreprise',
-            'icon' => 'fas fa-lightbulb'
-        ]
-    ];
-    $service = $services[0];
-    foreach ($services as $s) {
-        if ($s['slug'] == $slug) {
-            $service = $s;
-        }
-    }
-@endphp
-
 <!doctype html>
 <html lang="{{$l}}" @if ($l == "ar") dir="rtl" @endif>
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        {!! SEO::generate() !!}
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css">
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/regular.min.css">
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/brands.min.css">
@@ -81,7 +53,6 @@
                 s0.parentNode.insertBefore(s1,s0);
             })();
         </script>
-        {!! SEO::generate() !!}
     </head>
     <body>
         @include('welcome.partials.preloader')
@@ -102,7 +73,7 @@
                 </div>
             </div>
         </div>
-        @include('welcome.services.'.$service['slug'])
+        @include('welcome.partials.service')
         @include('welcome.partials.contact')
         @include('welcome.partials.footer2')
         @if ($l == "ar")

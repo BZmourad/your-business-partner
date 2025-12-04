@@ -7,36 +7,28 @@
                 {{ __("Our team is composed of experienced tax consultants dedicated to providing accurate, strategic, and client-focused guidance. We combine technical expertise with a deep understanding of Tunisian and international tax regulations to help businesses achieve long-term financial stability.", [], $l)}}
             </p>
         </div>
-        <div class="row border-bottom pt-45 pb-20">
-            <div class="col-lg-4 col-md-6"></div>
-            <div class="col-lg-4 col-md-6">
-                <div class="team-card">
-                    <div class="team-img">
-                        <img src="{{ asset('welcome/assets/img/team/team-1.jpeg') }}" alt="Images">
-                        <div class="social-icon">
-                            <ul class="social-link">
-                                <li>
-                                    <a href="#" target="_blank"><i class='bx bxl-facebook'></i></a>
-                                </li> 
-                                <li>
-                                    <a href="#" target="_blank"><i class='bx bxl-twitter'></i></a>
-                                </li> 
-                                <li>
-                                    <a href="#" target="_blank"><i class='bx bxl-linkedin'></i></a>
-                                </li> 
-                                <li>
-                                    <a href="#" target="_blank"><i class='bx bxl-instagram'></i></a>
-                                </li> 
-                            </ul>
+        <div class="row border-bottom pt-45 pb-20 justify-content-center align-items-center">
+            @foreach ($teams as $item)
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-card">
+                        <div class="team-img">
+                            <img src="{{ asset($item['image']) }}" alt="Images">
+                            <div class="social-icon">
+                                <ul class="social-link">
+                                    @if($item['facebook'])<li><a href="{{$item['facebook']}}" target="_blank"><i class='bx bxl-facebook'></i></a></li> @endif
+                                    @if($item['twitter'])<li><a href="{{$item['twitter']}}" target="_blank"><i class='bx bxl-twitter'></i></a></li>  @endif
+                                    @if($item['linkedin'])<li><a href="{{$item['linkedin']}}" target="_blank"><i class='bx bxl-linkedin'></i></a></li>  @endif
+                                    @if($item['instagram'])<li><a href="{{$item['instagram']}}" target="_blank"><i class='bx bxl-instagram'></i></a></li>  @endif
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="content">
+                            <h3>{{ __($item['name'], [], $l)}}</h3>
+                            <span>{{ __($item['titre'], [], $l)}}</span>
                         </div>
                     </div>
-                    <div class="content">
-                        <h3>{{ __("Maître Lotfi Alimi", [], $l)}}</h3>
-                        <span>{{ __("Founder - CEO", [], $l)}}</span>
-                        <p>{{ __("Lorem ipsum dolor sit consectetur adipiscing elit lacinia pharetra purus.", [], $l)}}</p>
-                    </div>
                 </div>
-            </div>
+            @endforeach
         </div>
     </div>
 </div>

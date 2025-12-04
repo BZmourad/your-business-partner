@@ -2,72 +2,32 @@
     <div class="container">
         <div class="section-title text-center">
             <span>{{ __("Clients Review", [], $l)}}</span>
-            <h2>{{ __("Our Lovely Clients Get Helped From Our Company", [], $l)}}</h2>
+            <h2>{{ __("What Our Business Partners Say About YBP", [], $l)}}</h2>
             <p>
-                {{ __("Our clients trust us for our expertise, professionalism, and dedication to delivering clear and reliable tax solutions. Their feedback reflects the value we provide and our commitment to helping businesses navigate complex fiscal and legal challenges with confidence.", [], $l)}}
+                {{ __("Our clients across various industries trust YBP for comprehensive business solutions. From startups to established enterprises, their feedback reflects our commitment to excellence, reliability, and personalized service in the Tunisian market.", [], $l)}}
             </p>
         </div>
         <div class="client-slider owl-carousel owl-theme pt-45">
-            <div class="client-card">
-                <h3>{{ __("Thomas Smith", [], $l)}}</h3>
-                <span>{{ __("CEO Of LTD Company", [], $l)}}</span>
-                <ul>
-                    <li>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                    </li>
-                </ul>
-                <p>
-                    {{ __("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non ullamcorper tortor, vel mattis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit.", [], $l)}}
-                </p>
-                <i class="flaticon-quote client-card-quote"></i>
-                <div class="client-card-img">
-                    <img src="{{ asset('welcome/assets/img/client/client-img1.png') }}" alt="Images">
+            @foreach ($testimonials as $testimonial)
+                <div class="client-card">
+                    <h3>{{ __($testimonial['name'], [], $l)}}</h3>
+                    <span>{{ __($testimonial['position'], [], $l)}}</span>
+                    <ul>
+                        <li>
+                            @for ($i = 0; $i < $testimonial['rating']; $i++)
+                                <i class='bx bxs-star'></i>
+                            @endfor
+                        </li>
+                    </ul>
+                    <p>
+                        {{ __($testimonial['comment'], [], $l)}}
+                    </p>
+                    <i class="flaticon-quote client-card-quote"></i>
+                    <div class="client-card-img">
+                        <img src="{{ asset($testimonial['image']) }}" alt="{{ $testimonial['name'] }}">
+                    </div>
                 </div>
-            </div>
-            <div class="client-card">
-                <h3>{{ __("Sinthy Alina", [], $l)}}</h3>
-                <span>{{ __("CEO Of YBP", [], $l)}}</span>
-                <ul>
-                    <li>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                    </li>
-                </ul>
-                <p>
-                    {{ __("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non ullamcorper tortor, vel mattis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit.", [], $l)}}
-                </p>
-                <i class="flaticon-quote client-card-quote"></i>
-                <div class="client-card-img">
-                    <img src="{{ asset('welcome/assets/img/client/client-img4.png') }}" alt="Images">
-                </div>
-            </div>
-            <div class="client-card">
-                <h3>{{ __("James Nilson", [], $l)}}</h3>
-                <span>{{ __("Manager Of YBP", [], $l)}}</span>
-                <ul>
-                    <li>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                        <i class='bx bxs-star'></i>
-                    </li>
-                </ul>
-                <p>
-                    {{ __("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque non ullamcorper tortor, vel mattis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit.", [], $l)}}
-                </p>
-                <i class="flaticon-quote client-card-quote"></i>
-                <div class="client-card-img">
-                    <img src="{{ asset('welcome/assets/img/client/client-img3.png') }}" alt="Images">
-                </div>
-            </div>
+            @endforeach
         </div>
     </div>
 </div>

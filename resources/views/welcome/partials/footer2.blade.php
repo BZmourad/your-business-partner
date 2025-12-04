@@ -1,7 +1,7 @@
 <footer class="footer-area pt-100 pb-70">
     <div class="container">
         <div class="row">
-            <div class="col-lg-5 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="footer-widget">
                     <div class="footer-logo">
                         <a href="{{route($l.'.welcome')}}">
@@ -31,7 +31,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-4 col-md-6">
                 <div class="footer-widget">
                     <h3>{{ __("Useful Links", [], $l)}} </h3>
                     <ul class="footer-list">
@@ -68,7 +68,7 @@
                         </li>
                         <li>
                             <i class='bx bxs-envelope'></i>
-                            <a href="lotfialimi@gmail.com"><span>lotfialimi@gmail.com</span></a>
+                            <a href="mailto:ybp.businesstn@gmail.com"><span>ybp.businesstn@gmail.com</span></a>
                         </li>
                     </ul>
                 </div>
@@ -81,7 +81,7 @@
         <div class="copy-right-text text-center">
             <p>
                 {{ __("Copyright YBP. All Rights Reserved by ", [], $l)}}
-                <a href="https://mbz-solutions" target="_blank">mbz-solutions</a> 
+                <a href="https://mbz-solutions.com" target="_blank">mbz-solutions</a> 
             </p>
         </div>
     </div>
