@@ -1,0 +1,41 @@
+cd C:\laragon\www\apps\your-business-partner
+php artisan db:create && php artisan db:data && php artisan cache:allclear
+
+
+MAILJET_APIKEY=673319b73b3df747da76b02cc9d65897
+MAILJET_APISECRET=debea002bb9d27c17108a99529ba8dce
+
+MAIL_MAILER=mailjet
+MAIL_HOST=in-v3.mailjet.com
+MAIL_PORT=587
+MAIL_USERNAME=mourad.boozidi.1996@gmail.com
+MAIL_PASSWORD=mourad@1996+++
+MAIL_ENCRYPTION=TLS
+MAIL_FROM_ADDRESS=mourad.boozidi.1996@gmail.com
+MAIL_FROM_NAME="${APP_NAME}"
+
+
+MAIL_MAILER=smtp
+MAIL_HOST=sandbox.smtp.mailtrap.io
+MAIL_PORT=2525
+MAIL_USERNAME=e25672069cd73e
+MAIL_PASSWORD=f64e596628582e
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS=mourad.boozidi.1996@gmail.com
+MAIL_FROM_NAME="${APP_NAME}"
+
+
+
+Timeline
+created_by
+modules:profile,messages,clients,services,demandes,roles,users,paramètre,auth
+action:add,create,edit,delete,login,logout
+old_data
+new_data
+
+
+ln -s /homez.2186/mbzsoll/lotfiged/storage/app/public /homez.2186/mbzsoll/lotfiged/public/storage
+
+
+month year
+wkpdf prod 

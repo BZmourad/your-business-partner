@@ -1,0 +1,1 @@
+<span class="badge badge-primary badge-md badge-glow"> {{$data->getRoleNames()[0]}} </span>

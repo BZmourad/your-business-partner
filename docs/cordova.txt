@@ -1,0 +1,37 @@
+cordova create mobile-app com.example.mobileapp MobileApp
+cd mobile-app
+cordova platform add android
+
+cordova plugin add cordova-plugin-whitelist@latest
+#cordova plugin add cordova-plugin-whitelist
+cordova plugin add cordova-plugin-network-information
+cordova plugin add cordova-plugin-dialogs
+cordova plugin add cordova-plugin-statusbar
+cordova plugin add cordova-plugin-inappbrowser
+
+cordova build android
+cordova run android
+cordova build android --release
+
+
+//** mobile-app\config.xml
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.mobileapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>MobileApp</name>
+    <description>Sample Apache Cordova App</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+    <content src="https://p25001.mbz-solutions.com" />
+    <preference name="OverrideUserAgent" value="CordovaApp-p25001/1.0.0" />
+    <allow-navigation href="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+        <config-file target="AndroidManifest.xml" parent="/*">
+            <uses-permission android:name="android.permission.INTERNET" />
+            <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+        </config-file>
+    </platform>
+</widget>

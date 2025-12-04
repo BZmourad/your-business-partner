@@ -1,0 +1,2 @@
+<strong class="dark">{{ $data->name}} </strong> <span class="{{$data->getMedia('*')->count() ? 'success' : 'danger'}}">({{ $data->getMedia('*')->count().' '. __('fichier(s)')}})</span> 
+@if($data->description)<br> <small> {{$data->description}} </small> @endif

@@ -1,0 +1,1 @@
+<img src="{{ $fileUrl }}" alt="Image demo" style="max-width: 100%; height: auto;"  class="shadow-lg"/>

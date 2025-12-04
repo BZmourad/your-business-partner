@@ -1,0 +1,11 @@
+API Keys created
+Application name
+p25001
+Application description
+p25001
+Application key
+856e2a528763cd67
+Application secret
+2fce8bac3de5e794f9e957b2e87f488d
+Consumer Key
+a85b64641e5b6fca334f533f004c2496

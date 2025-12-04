@@ -1,0 +1,1 @@
+<button class="btn btn-danger btn-sm deleteData" type="button" data-id="{{$data->id}}"> <i class="la la-trash"></i> </button>

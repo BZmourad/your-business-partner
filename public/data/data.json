@@ -1,0 +1,4448 @@
+[
+    {
+        "name": "Andorra",
+        "name_ar": "أندورا",
+        "name_fr": "Andorra",
+        "TelPref": "376",
+        "GeoPt": [
+            42.3,
+            1.3
+        ],
+        "CountryCodes_fips": "AN",
+        "CountryCodes_iso2": "AD",
+        "CountryCodes_iso3": "AND",
+        "CountryCodes_isoN": 20,
+        "CountryCodes_tld": "ad",
+        "Capital": "Andorra la Vella",
+        "nationality": "Andorran",
+        "regex": "^(\\+?376)?\\d{6}$"
+    },
+    {
+        "name": "United Arab Emirates",
+        "name_ar": "الامارات العربية المتحدة",
+        "name_fr": "Emirats Arabes Unis",
+        "TelPref": "971",
+        "GeoPt": [
+            24,
+            54
+        ],
+        "CountryCodes_fips": "AE",
+        "CountryCodes_iso2": "AE",
+        "CountryCodes_iso3": "ARE",
+        "CountryCodes_isoN": 784,
+        "CountryCodes_tld": "ae",
+        "Capital": "Abu Dhabi",
+        "nationality": "Emirati",
+        "regex": "^(\\+?971)?[2-9]\\d{7}$"
+    },
+    {
+        "name": "Afghanistan",
+        "name_ar": "أفغانستان",
+        "name_fr": "L'Afghanistan",
+        "TelPref": "93",
+        "GeoPt": [
+            33,
+            65
+        ],
+        "CountryCodes_fips": "AF",
+        "CountryCodes_iso2": "AF",
+        "CountryCodes_iso3": "AFG",
+        "CountryCodes_isoN": 4,
+        "CountryCodes_tld": "af",
+        "Capital": "Kabul",
+        "nationality": "Afghan",
+        "regex": "^(\\+?93)?[2-9]\\d{8}$"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "name_ar": "انتيغوا وبربودا",
+        "name_fr": "Antigua et Barbuda",
+        "TelPref": "1 268",
+        "GeoPt": [
+            17.03,
+            -61.48
+        ],
+        "CountryCodes_fips": "AC",
+        "CountryCodes_iso2": "AG",
+        "CountryCodes_iso3": "ATG",
+        "CountryCodes_isoN": 28,
+        "CountryCodes_tld": "ag",
+        "Capital": "Saint John's",
+        "nationality": "Antiguan or Barbudan",
+        "regex": "^(\\+?1\\s?268)?\\d{7}$"
+    },
+    {
+        "name": "Anguilla",
+        "name_ar": "أنغيلا",
+        "name_fr": "Anguilla",
+        "TelPref": "1 264",
+        "GeoPt": [
+            18.15,
+            -63.1
+        ],
+        "CountryCodes_fips": "AV",
+        "CountryCodes_iso2": "AI",
+        "CountryCodes_iso3": "AIA",
+        "CountryCodes_isoN": 660,
+        "CountryCodes_tld": "ai",
+        "Capital": "The Valley",
+        "nationality": "Anguillan",
+        "regex": "^(\\+?1\\s?264)?\\d{7}$"
+    },
+    {
+        "name": "Albania",
+        "name_ar": "ألبانيا",
+        "name_fr": "L'Albanie",
+        "TelPref": "355",
+        "GeoPt": [
+            41,
+            20
+        ],
+        "CountryCodes_fips": "AL",
+        "CountryCodes_iso2": "AL",
+        "CountryCodes_iso3": "ALB",
+        "CountryCodes_isoN": 8,
+        "CountryCodes_tld": "al",
+        "Capital": "Tirana",
+        "nationality": "Albanian",
+        "regex": "^(\\+?355)?\\d{9}$"
+    },
+    {
+        "name": "Armenia",
+        "name_ar": "أرمينيا",
+        "name_fr": "L'Arménie",
+        "TelPref": "374",
+        "GeoPt": [
+            40,
+            45
+        ],
+        "CountryCodes_fips": "AM",
+        "CountryCodes_iso2": "AM",
+        "CountryCodes_iso3": "ARM",
+        "CountryCodes_isoN": 51,
+        "CountryCodes_tld": "am",
+        "Capital": "Yerevan",
+        "nationality": "Armenian",
+        "regex": "^(\\+?374)?\\d{8}$"
+    },
+    {
+        "name": "Angola",
+        "name_ar": "أنغولا",
+        "name_fr": "L'Angola",
+        "TelPref": "244",
+        "GeoPt": [
+            -12.3,
+            18.3
+        ],
+        "CountryCodes_fips": "AO",
+        "CountryCodes_iso2": "AO",
+        "CountryCodes_iso3": "AGO",
+        "CountryCodes_isoN": 24,
+        "CountryCodes_tld": "ao",
+        "Capital": "Luanda",
+        "nationality": "Angolan",
+        "regex": "^(\\+?244)?\\d{9}$"
+    },
+    {
+        "name": "Antarctica",
+        "name_ar": "القارة القطبية الجنوبية",
+        "name_fr": "L'Antarctique",
+        "TelPref": "672",
+        "GeoPt": [
+            -90,
+            0
+        ],
+        "CountryCodes_fips": "AY",
+        "CountryCodes_iso2": "AQ",
+        "CountryCodes_iso3": "ATA",
+        "CountryCodes_isoN": 10,
+        "CountryCodes_tld": "aq",
+        "Capital": "",
+        "nationality": "Antarctican",
+        "regex": "^(\\+?672)?\\d{6,7}$"
+    },
+    {
+        "name": "Argentina",
+        "name_ar": "الأرجنتين",
+        "name_fr": "L'Argentine",
+        "TelPref": "54",
+        "GeoPt": [
+            -34,
+            -64
+        ],
+        "CountryCodes_fips": "AR",
+        "CountryCodes_iso2": "AR",
+        "CountryCodes_iso3": "ARG",
+        "CountryCodes_isoN": 32,
+        "CountryCodes_tld": "ar",
+        "Capital": "Buenos Aires",
+        "nationality": "Argentine",
+        "regex": "^\\+54(9)?\\d{10}$"
+    },
+    {
+        "name": "American Samoa",
+        "name_ar": "ساموا الأمريكية",
+        "name_fr": "Les Samoa américaines",
+        "TelPref": "1 684",
+        "GeoPt": [
+            -14.2,
+            -170
+        ],
+        "CountryCodes_fips": "AQ",
+        "CountryCodes_iso2": "AS",
+        "CountryCodes_iso3": "ASM",
+        "CountryCodes_isoN": 16,
+        "CountryCodes_tld": "as",
+        "Capital": "Pago Pago",
+        "nationality": "American Samoan",
+        "regex": "^\\+1\\s?684\\d{7}$"
+    },
+    {
+        "name": "Austria",
+        "name_ar": "النمسا",
+        "name_fr": "L'Autriche",
+        "TelPref": "43",
+        "GeoPt": [
+            47.2,
+            13.2
+        ],
+        "CountryCodes_fips": "AU",
+        "CountryCodes_iso2": "AT",
+        "CountryCodes_iso3": "AUT",
+        "CountryCodes_isoN": 40,
+        "CountryCodes_tld": "at",
+        "Capital": "Vienna",
+        "nationality": "Austrian",
+        "regex": "^\\+43\\d{4,13}$"
+    },
+    {
+        "name": "Australia",
+        "name_ar": "استراليا",
+        "name_fr": "L'Australie",
+        "TelPref": "61",
+        "GeoPt": [
+            -27,
+            133
+        ],
+        "CountryCodes_fips": "AS",
+        "CountryCodes_iso2": "AU",
+        "CountryCodes_iso3": "AUS",
+        "CountryCodes_isoN": 36,
+        "CountryCodes_tld": "au",
+        "Capital": "Canberra",
+        "nationality": "Australian",
+        "regex": "^\\+61\\d{9}$"
+    },
+    {
+        "name": "Aruba",
+        "name_ar": "أروبا",
+        "name_fr": "Aruba",
+        "TelPref": "297",
+        "GeoPt": [
+            12.3,
+            -69.58
+        ],
+        "CountryCodes_fips": "AA",
+        "CountryCodes_iso2": "AW",
+        "CountryCodes_iso3": "ABW",
+        "CountryCodes_isoN": 533,
+        "CountryCodes_tld": "aw",
+        "Capital": "Oranjestad",
+        "nationality": "Aruban",
+        "regex": "^\\+297\\d{7}$"
+    },
+    {
+        "name": "Åland Islands",
+        "name_ar": "جزر آلاند",
+        "name_fr": "Îles Åland",
+        "TelPref": "358",
+        "GeoPt": [
+            0,
+            0
+        ],
+        "CountryCodes_fips": "AX",
+        "CountryCodes_iso2": "AX",
+        "CountryCodes_iso3": "ALV",
+        "CountryCodes_isoN": 304,
+        "CountryCodes_tld": "ax",
+        "Capital": "Mariehamn",
+        "nationality": "Åland Islander",
+        "regex": "^\\+358\\d{7,10}$"
+    },
+    {
+        "name": "Azerbaijan",
+        "name_ar": "أذربيجان",
+        "name_fr": "L'Azerbaïdjan",
+        "TelPref": "994",
+        "GeoPt": [
+            40.3,
+            47.3
+        ],
+        "CountryCodes_fips": "AJ",
+        "CountryCodes_iso2": "AZ",
+        "CountryCodes_iso3": "AZE",
+        "CountryCodes_isoN": 31,
+        "CountryCodes_tld": "az",
+        "Capital": "Baku",
+        "nationality": "Azerbaijani",
+        "regex": "^\\+994\\d{9}$"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "name_ar": "البوسنة والهرسك",
+        "name_fr": "Bosnie et Herzégovine",
+        "TelPref": "387",
+        "GeoPt": [
+            44,
+            18
+        ],
+        "CountryCodes_fips": "BK",
+        "CountryCodes_iso2": "BA",
+        "CountryCodes_iso3": "BIH",
+        "CountryCodes_isoN": 70,
+        "CountryCodes_tld": "ba",
+        "Capital": "Sarajevo",
+        "nationality": "Bosnian or Herzegovinian",
+        "regex": "^\\+387\\d{8}$"
+    },
+    {
+        "name": "Barbados",
+        "name_ar": "بربادوس",
+        "name_fr": "La Barbade",
+        "TelPref": "1 246",
+        "GeoPt": [
+            13.1,
+            -59.32
+        ],
+        "CountryCodes_fips": "BB",
+        "CountryCodes_iso2": "BB",
+        "CountryCodes_iso3": "BRB",
+        "CountryCodes_isoN": 52,
+        "CountryCodes_tld": "bb",
+        "Capital": "Bridgetown",
+        "nationality": "Barbadian",
+        "regex": "^\\+1\\s?246\\d{7}$"
+    },
+    {
+        "name": "Bangladesh",
+        "name_ar": "بنغلاديش",
+        "name_fr": "Le Bangladesh",
+        "TelPref": "880",
+        "GeoPt": [
+            24,
+            90
+        ],
+        "CountryCodes_fips": "BG",
+        "CountryCodes_iso2": "BD",
+        "CountryCodes_iso3": "BGD",
+        "CountryCodes_isoN": 50,
+        "CountryCodes_tld": "bd",
+        "Capital": "Dhaka",
+        "nationality": "Bangladeshi",
+        "regex": "^\\+8801[3-9]\\d{8}$"
+    },
+    {
+        "name": "Belgium",
+        "name_ar": "بلجيكا",
+        "name_fr": "La Belgique",
+        "TelPref": "32",
+        "GeoPt": [
+            50.5,
+            4
+        ],
+        "CountryCodes_fips": "BE",
+        "CountryCodes_iso2": "BE",
+        "CountryCodes_iso3": "BEL",
+        "CountryCodes_isoN": 56,
+        "CountryCodes_tld": "be",
+        "Capital": "Brussels",
+        "nationality": "Belgian",
+        "regex": "^\\+32\\d{8,9}$"
+    },
+    {
+        "name": "Burkina Faso",
+        "name_ar": "بوركينا فاسو",
+        "name_fr": "Burkina Faso",
+        "TelPref": "226",
+        "GeoPt": [
+            13,
+            -2
+        ],
+        "CountryCodes_fips": "UV",
+        "CountryCodes_iso2": "BF",
+        "CountryCodes_iso3": "BFA",
+        "CountryCodes_isoN": 854,
+        "CountryCodes_tld": "bf",
+        "Capital": "Ouagadougou",
+        "nationality": "Burkinabé",
+        "regex": "^\\+226\\d{8}$"
+    },
+    {
+        "name": "Bulgaria",
+        "name_ar": "بلغاريا",
+        "name_fr": "La Bulgarie",
+        "TelPref": "359",
+        "GeoPt": [
+            43,
+            25
+        ],
+        "CountryCodes_fips": "BU",
+        "CountryCodes_iso2": "BG",
+        "CountryCodes_iso3": "BGR",
+        "CountryCodes_isoN": 100,
+        "CountryCodes_tld": "bg",
+        "Capital": "Sofia",
+        "nationality": "Bulgarian",
+        "regex": "^\\+359\\d{9}$"
+    },
+    {
+        "name": "Bahrain",
+        "name_ar": "البحرين",
+        "name_fr": "Bahrein",
+        "TelPref": "973",
+        "GeoPt": [
+            26,
+            50.33
+        ],
+        "CountryCodes_fips": "BA",
+        "CountryCodes_iso2": "BH",
+        "CountryCodes_iso3": "BHR",
+        "CountryCodes_isoN": 48,
+        "CountryCodes_tld": "bh",
+        "Capital": "Manama",
+        "nationality": "Bahraini",
+        "regex": "^\\+973\\d{8}$"
+    },
+    {
+        "name": "Burundi",
+        "name_ar": "بوروندي",
+        "name_fr": "Burundi",
+        "TelPref": "257",
+        "GeoPt": [
+            -3.3,
+            30
+        ],
+        "CountryCodes_fips": "BY",
+        "CountryCodes_iso2": "BI",
+        "CountryCodes_iso3": "BDI",
+        "CountryCodes_isoN": 108,
+        "CountryCodes_tld": "bi",
+        "Capital": "Bujumbura",
+        "nationality": "Burundian",
+        "regex": "^\\+257\\d{8}$"
+    },
+    {
+        "name": "Benin",
+        "name_ar": "بنين",
+        "name_fr": "Bénin",
+        "TelPref": "229",
+        "GeoPt": [
+            9.3,
+            2.15
+        ],
+        "CountryCodes_fips": "BN",
+        "CountryCodes_iso2": "BJ",
+        "CountryCodes_iso3": "BEN",
+        "CountryCodes_isoN": 204,
+        "CountryCodes_tld": "bj",
+        "Capital": "Porto-Novo",
+        "nationality": "Beninese",
+        "regex": "^\\+229\\d{8}$"
+    },
+    {
+        "name": "Saint Barthelemy",
+        "name_ar": "سانت بارتيليمي",
+        "name_fr": "Saint Barthélemy",
+        "TelPref": "590",
+        "GeoPt": [
+            17.9,
+            -62.85
+        ],
+        "CountryCodes_fips": "TB",
+        "CountryCodes_iso2": "BL",
+        "CountryCodes_iso3": "BLM",
+        "CountryCodes_isoN": 652,
+        "CountryCodes_tld": "bl",
+        "Capital": "Gustavia",
+        "nationality": "Saint Barthélemy Islander",
+        "regex": "^\\+590\\d{6,9}$"
+    },
+    {
+        "name": "Bermuda",
+        "name_ar": "برمودا",
+        "name_fr": "Bermuda",
+        "TelPref": "1 441",
+        "GeoPt": [
+            32.2,
+            -64.45
+        ],
+        "CountryCodes_fips": "BD",
+        "CountryCodes_iso2": "BM",
+        "CountryCodes_iso3": "BMU",
+        "CountryCodes_isoN": 60,
+        "CountryCodes_tld": "bm",
+        "Capital": "Hamilton",
+        "nationality": "Bermudian",
+        "regex": "^\\+1\\s?441\\d{7}$"
+    },
+    {
+        "name": "Brunei",
+        "name_ar": "بروناي",
+        "name_fr": "Brunei",
+        "TelPref": "673",
+        "GeoPt": [
+            4.3,
+            114.4
+        ],
+        "CountryCodes_fips": "BX",
+        "CountryCodes_iso2": "BN",
+        "CountryCodes_iso3": "BRN",
+        "CountryCodes_isoN": 96,
+        "CountryCodes_tld": "bn",
+        "Capital": "Bandar Seri Begawan",
+        "nationality": "Bruneian",
+        "regex": "^\\+673\\d{7}$"
+    },
+    {
+        "name": "Bolivia",
+        "name_ar": "بوليفيا",
+        "name_fr": "La Bolivie",
+        "TelPref": "591",
+        "GeoPt": [
+            -17,
+            -65
+        ],
+        "CountryCodes_fips": "BL",
+        "CountryCodes_iso2": "BO",
+        "CountryCodes_iso3": "BOL",
+        "CountryCodes_isoN": 68,
+        "CountryCodes_tld": "bo",
+        "Capital": "La Paz",
+        "nationality": "Bolivian",
+        "regex": "^\\+591\\d{8}$"
+    },
+    {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "name_ar": "بونير وسنت أوستاتيوس وسابا",
+        "name_fr": "Bonaire, Sint Eustatius et Saba",
+        "TelPref": "599",
+        "GeoPt": [
+            0,
+            0
+        ],
+        "CountryCodes_fips": "BQ",
+        "CountryCodes_iso2": "BQ",
+        "CountryCodes_iso3": "",
+        "CountryCodes_isoN": 599,
+        "CountryCodes_tld": "bq",
+        "Capital": "Bonaire, Sint Eustatius and Saba",
+        "nationality": "Dutch Caribbean",
+        "regex": "^\\+599\\d{7}$"
+    },
+    {
+        "name": "Brazil",
+        "name_ar": "البرازيل",
+        "name_fr": "Le Brésil",
+        "TelPref": "55",
+        "GeoPt": [
+            -10,
+            -55
+        ],
+        "CountryCodes_fips": "BR",
+        "CountryCodes_iso2": "BR",
+        "CountryCodes_iso3": "BRA",
+        "CountryCodes_isoN": 76,
+        "CountryCodes_tld": "br",
+        "Capital": "Brasilia",
+        "nationality": "Brazilian",
+        "regex": "^\\+55\\d{10,11}$"
+    },
+    {
+        "name": "Bahamas",
+        "name_ar": "جزر البهاما",
+        "name_fr": "Bahamas",
+        "TelPref": "1 242",
+        "GeoPt": [
+            24.15,
+            -76
+        ],
+        "CountryCodes_fips": "BF",
+        "CountryCodes_iso2": "BS",
+        "CountryCodes_iso3": "BHS",
+        "CountryCodes_isoN": 44,
+        "CountryCodes_tld": "bs",
+        "Capital": "Nassau",
+        "nationality": "Bahamian",
+        "regex": "^\\+1\\s?242\\d{7}$"
+    },
+    {
+        "name": "Bhutan",
+        "name_ar": "بوتان",
+        "name_fr": "Le Bhoutan",
+        "TelPref": "975",
+        "GeoPt": [
+            27.3,
+            90.3
+        ],
+        "CountryCodes_fips": "BT",
+        "CountryCodes_iso2": "BT",
+        "CountryCodes_iso3": "BTN",
+        "CountryCodes_isoN": 64,
+        "CountryCodes_tld": "bt",
+        "Capital": "Thimphu",
+        "nationality": "Bhutanese",
+        "regex": "^\\+975\\d{8}$"
+    },
+    {
+        "name": "Bouvet Island",
+        "name_ar": "جزيرة بوفيت",
+        "name_fr": "Bouvet Island",
+        "TelPref": "47",
+        "GeoPt": [
+            -54.26,
+            3.24
+        ],
+        "CountryCodes_fips": "BV",
+        "CountryCodes_iso2": "BV",
+        "CountryCodes_iso3": "BVT",
+        "CountryCodes_isoN": 74,
+        "CountryCodes_tld": "bv",
+        "Capital": "",
+        "nationality": "Bouvet Islander",
+        "regex": "^\\+47\\d{8}$"
+    },
+    {
+        "name": "Botswana",
+        "name_ar": "بوتسوانا",
+        "name_fr": "Le Botswana",
+        "TelPref": "267",
+        "GeoPt": [
+            -22,
+            24
+        ],
+        "CountryCodes_fips": "BC",
+        "CountryCodes_iso2": "BW",
+        "CountryCodes_iso3": "BWA",
+        "CountryCodes_isoN": 72,
+        "CountryCodes_tld": "bw",
+        "Capital": "Gaborone",
+        "nationality": "Botswanan",
+        "regex": "^\\+267\\d{7,8}$"
+    },
+    {
+        "name": "Belarus",
+        "name_ar": "روسيا البيضاء",
+        "name_fr": "Biélorussie",
+        "TelPref": "375",
+        "GeoPt": [
+            53,
+            28
+        ],
+        "CountryCodes_fips": "BO",
+        "CountryCodes_iso2": "BY",
+        "CountryCodes_iso3": "BLR",
+        "CountryCodes_isoN": 112,
+        "CountryCodes_tld": "by",
+        "Capital": "Minsk",
+        "nationality": "Belarusian",
+        "regex": "^\\+375\\d{9}$"
+    },
+    {
+        "name": "Belize",
+        "name_ar": "بليز",
+        "name_fr": "Le Belize",
+        "TelPref": "501",
+        "GeoPt": [
+            17.15,
+            -88.45
+        ],
+        "CountryCodes_fips": "BH",
+        "CountryCodes_iso2": "BZ",
+        "CountryCodes_iso3": "BLZ",
+        "CountryCodes_isoN": 84,
+        "CountryCodes_tld": "bz",
+        "Capital": "Belmopan",
+        "nationality": "Belizean",
+        "regex": "^\\+501\\d{7,8}$"
+    },
+    {
+        "name": "Canada",
+        "name_ar": "كندا",
+        "name_fr": "Canada",
+        "TelPref": "1",
+        "GeoPt": [
+            60,
+            -95
+        ],
+        "CountryCodes_fips": "CA",
+        "CountryCodes_iso2": "CA",
+        "CountryCodes_iso3": "CAN",
+        "CountryCodes_isoN": 124,
+        "CountryCodes_tld": "ca",
+        "Capital": "Ottawa",
+        "nationality": "Canadian",
+        "regex": "^\\+1\\d{10}$"
+    },
+    {
+        "name": "Cocos Islands",
+        "name_ar": "جزر كوكوس",
+        "name_fr": "Îles Cocos",
+        "TelPref": "61",
+        "GeoPt": [
+            -12.3,
+            96.5
+        ],
+        "CountryCodes_fips": "CK",
+        "CountryCodes_iso2": "CC",
+        "CountryCodes_iso3": "CCK",
+        "CountryCodes_isoN": 166,
+        "CountryCodes_tld": "cc",
+        "Capital": "West Island",
+        "nationality": "Cocos Islander",
+        "regex": "^\\+61\\d{9}$"
+    },
+    {
+        "name": "Congo Democratic Republic",
+        "name_ar": "جمهورية الكونغو الديمقراطية",
+        "name_fr": "République Démocratique du Congo",
+        "TelPref": "243",
+        "GeoPt": [
+            0,
+            25
+        ],
+        "CountryCodes_fips": "CG",
+        "CountryCodes_iso2": "CD",
+        "CountryCodes_iso3": "COD",
+        "CountryCodes_isoN": 180,
+        "CountryCodes_tld": "cd",
+        "Capital": "Kinshasa",
+        "nationality": "Congolese (Democratic Republic)",
+        "regex": "^\\+243\\d{9}$"
+    },
+    {
+        "name": "Central African Republic",
+        "name_ar": "جمهورية أفريقيا الوسطى",
+        "name_fr": "République Centrafricaine",
+        "TelPref": "236",
+        "GeoPt": [
+            7,
+            21
+        ],
+        "CountryCodes_fips": "CT",
+        "CountryCodes_iso2": "CF",
+        "CountryCodes_iso3": "CAF",
+        "CountryCodes_isoN": 140,
+        "CountryCodes_tld": "cf",
+        "Capital": "Bangui",
+        "nationality": "Central African",
+        "regex": "^\\+236\\d{8}$"
+    },
+    {
+        "name": "Congo Republic",
+        "name_ar": "جمهورية الكونغو",
+        "name_fr": "République du Congo",
+        "TelPref": "242",
+        "GeoPt": [
+            -1,
+            15
+        ],
+        "CountryCodes_fips": "CF",
+        "CountryCodes_iso2": "CG",
+        "CountryCodes_iso3": "COG",
+        "CountryCodes_isoN": 178,
+        "CountryCodes_tld": "cg",
+        "Capital": "Brazzaville",
+        "nationality": "Congolese (Republic)",
+        "regex": "^\\+242\\d{9}$"
+    },
+    {
+        "name": "Switzerland",
+        "name_ar": "سويسرا",
+        "name_fr": "Suisse",
+        "TelPref": "41",
+        "GeoPt": [
+            47,
+            8
+        ],
+        "CountryCodes_fips": "SZ",
+        "CountryCodes_iso2": "CH",
+        "CountryCodes_iso3": "CHE",
+        "CountryCodes_isoN": 756,
+        "CountryCodes_tld": "ch",
+        "Capital": "Bern",
+        "nationality": "Swiss",
+        "regex": "^\\+41\\d{9}$"
+    },
+    {
+        "name": "Ivory Coast",
+        "name_ar": "ساحل العاج",
+        "name_fr": "Côte-d'Ivoire",
+        "TelPref": "225",
+        "GeoPt": [
+            8,
+            -5
+        ],
+        "CountryCodes_fips": "IV",
+        "CountryCodes_iso2": "CI",
+        "CountryCodes_iso3": "CIV",
+        "CountryCodes_isoN": 384,
+        "CountryCodes_tld": "ci",
+        "Capital": "Yamoussoukro",
+        "nationality": "Ivorian",
+        "regex": "^\\+225\\d{8,10}$"
+    },
+    {
+        "name": "Cook Islands",
+        "name_ar": "جزر كوك",
+        "name_fr": "Iles Cook",
+        "TelPref": "682",
+        "GeoPt": [
+            -21.14,
+            -159.46
+        ],
+        "CountryCodes_fips": "CW",
+        "CountryCodes_iso2": "CK",
+        "CountryCodes_iso3": "COK",
+        "CountryCodes_isoN": 184,
+        "CountryCodes_tld": "ck",
+        "Capital": "Avarua",
+        "nationality": "Cook Islander",
+        "regex": "^\\+682\\d{5}$"
+    },
+    {
+        "name": "Chile",
+        "name_ar": "تشيلي",
+        "name_fr": "Le Chili",
+        "TelPref": "56",
+        "GeoPt": [
+            -30,
+            -71
+        ],
+        "CountryCodes_fips": "CI",
+        "CountryCodes_iso2": "CL",
+        "CountryCodes_iso3": "CHL",
+        "CountryCodes_isoN": 152,
+        "CountryCodes_tld": "cl",
+        "Capital": "Santiago",
+        "nationality": "Chilean",
+        "regex": "^\\+56\\d{9}$"
+    },
+    {
+        "name": "Cameroon",
+        "name_ar": "الكاميرون",
+        "name_fr": "Cameroun",
+        "TelPref": "237",
+        "GeoPt": [
+            6,
+            12
+        ],
+        "CountryCodes_fips": "CM",
+        "CountryCodes_iso2": "CM",
+        "CountryCodes_iso3": "CMR",
+        "CountryCodes_isoN": 120,
+        "CountryCodes_tld": "cm",
+        "Capital": "Yaounde",
+        "nationality": "Cameroonian",
+        "regex": "^\\+237\\d{8,9}$"
+    },
+    {
+        "name": "China",
+        "name_ar": "الصين",
+        "name_fr": "La Chine",
+        "TelPref": "86",
+        "GeoPt": [
+            35,
+            105
+        ],
+        "CountryCodes_fips": "CH",
+        "CountryCodes_iso2": "CN",
+        "CountryCodes_iso3": "CHN",
+        "CountryCodes_isoN": 156,
+        "CountryCodes_tld": "cn",
+        "Capital": "Beijing",
+        "nationality": "Chinese",
+        "regex": "^\\+86(1[3-9])\\d{9}$"
+    },
+    {
+        "name": "Colombia",
+        "name_ar": "كولومبيا",
+        "name_fr": "La Colombie",
+        "TelPref": "57",
+        "GeoPt": [
+            4,
+            -72
+        ],
+        "CountryCodes_fips": "CO",
+        "CountryCodes_iso2": "CO",
+        "CountryCodes_iso3": "COL",
+        "CountryCodes_isoN": 170,
+        "CountryCodes_tld": "co",
+        "Capital": "Bogota",
+        "nationality": "Colombian",
+        "regex": "^\\+57[1-9]\\d{8}$"
+    },
+    {
+        "name": "Costa Rica",
+        "name_ar": "كوستا ريكا",
+        "name_fr": "Costa Rica",
+        "TelPref": "506",
+        "GeoPt": [
+            10,
+            -84
+        ],
+        "CountryCodes_fips": "CS",
+        "CountryCodes_iso2": "CR",
+        "CountryCodes_iso3": "CRI",
+        "CountryCodes_isoN": 188,
+        "CountryCodes_tld": "cr",
+        "Capital": "San Jose",
+        "nationality": "Costa Rican",
+        "regex": "^\\+506\\d{8}$"
+    },
+    {
+        "name": "Cuba",
+        "name_ar": "كوبا",
+        "name_fr": "Cuba",
+        "TelPref": "53",
+        "GeoPt": [
+            21.3,
+            -80
+        ],
+        "CountryCodes_fips": "CU",
+        "CountryCodes_iso2": "CU",
+        "CountryCodes_iso3": "CUB",
+        "CountryCodes_isoN": 192,
+        "CountryCodes_tld": "cu",
+        "Capital": "Havana",
+        "nationality": "Cuban",
+        "regex": "^\\+53[2-9]\\d{6}$"
+    },
+    {
+        "name": "Cape Verde",
+        "name_ar": "الرأس الأخضر",
+        "name_fr": "Le Cap-Vert",
+        "TelPref": "238",
+        "GeoPt": [
+            16,
+            -24
+        ],
+        "CountryCodes_fips": "CV",
+        "CountryCodes_iso2": "CV",
+        "CountryCodes_iso3": "CPV",
+        "CountryCodes_isoN": 132,
+        "CountryCodes_tld": "cv",
+        "Capital": "Praia",
+        "nationality": "Cape Verdean",
+        "regex": "^\\+238\\d{7}$"
+    },
+    {
+        "name": "Curaçao",
+        "name_ar": "كوراساو",
+        "name_fr": "Curaçao",
+        "TelPref": "599-9",
+        "GeoPt": [
+            0,
+            0
+        ],
+        "CountryCodes_fips": "CW",
+        "CountryCodes_iso2": "CW",
+        "CountryCodes_iso3": "",
+        "CountryCodes_isoN": 599,
+        "CountryCodes_tld": "cw",
+        "Capital": "Willemstad",
+        "nationality": "Curaçaoan",
+        "regex": "^\\+5999\\d{7}$"
+    },
+    {
+        "name": "Christmas Island",
+        "name_ar": "جزيرة كريسماس",
+        "name_fr": "Christmas Island",
+        "TelPref": "61",
+        "GeoPt": [
+            -10.3,
+            105.4
+        ],
+        "CountryCodes_fips": "KT",
+        "CountryCodes_iso2": "CX",
+        "CountryCodes_iso3": "CXR",
+        "CountryCodes_isoN": 162,
+        "CountryCodes_tld": "cx",
+        "Capital": "The Settlement",
+        "nationality": "Christmas Islander",
+        "regex": "^\\+61\\d{9}$"
+    },
+    {
+        "name": "Cyprus",
+        "name_ar": "قبرص",
+        "name_fr": "Chypre",
+        "TelPref": "357",
+        "GeoPt": [
+            35,
+            33
+        ],
+        "CountryCodes_fips": "CY",
+        "CountryCodes_iso2": "CY",
+        "CountryCodes_iso3": "CYP",
+        "CountryCodes_isoN": 196,
+        "CountryCodes_tld": "cy",
+        "Capital": "Nicosia",
+        "nationality": "Cypriot",
+        "regex": "^\\+357\\d{8}$"
+    },
+    {
+        "name": "Czech Republic",
+        "name_ar": "الجمهورية التشيكية",
+        "name_fr": "République Tchèque",
+        "TelPref": "420",
+        "GeoPt": [
+            49.45,
+            15.3
+        ],
+        "CountryCodes_fips": "EZ",
+        "CountryCodes_iso2": "CZ",
+        "CountryCodes_iso3": "CZE",
+        "CountryCodes_isoN": 203,
+        "CountryCodes_tld": "cz",
+        "Capital": "Prague",
+        "nationality": "Czech",
+        "regex": "^\\+420\\d{9}$"
+    },
+    {
+        "name": "Germany",
+        "name_ar": "ألمانيا",
+        "name_fr": "Allemagne",
+        "TelPref": "49",
+        "GeoPt": [
+            51,
+            9
+        ],
+        "CountryCodes_fips": "GM",
+        "CountryCodes_iso2": "DE",
+        "CountryCodes_iso3": "DEU",
+        "CountryCodes_isoN": 276,
+        "CountryCodes_tld": "de",
+        "Capital": "Berlin",
+        "nationality": "German",
+        "regex": "^\\+49\\d{10,11}$"
+    },
+    {
+        "name": "Djibouti",
+        "name_ar": "جيبوتي",
+        "name_fr": "Djibouti",
+        "TelPref": "253",
+        "GeoPt": [
+            11.3,
+            43
+        ],
+        "CountryCodes_fips": "DJ",
+        "CountryCodes_iso2": "DJ",
+        "CountryCodes_iso3": "DJI",
+        "CountryCodes_isoN": 262,
+        "CountryCodes_tld": "dj",
+        "Capital": "Djibouti",
+        "nationality": "Djiboutian",
+        "regex": "^\\+253\\d{8}$"
+    },
+    {
+        "name": "Denmark",
+        "name_ar": "الدنمارك",
+        "name_fr": "Le Danemark",
+        "TelPref": "45",
+        "GeoPt": [
+            56,
+            10
+        ],
+        "CountryCodes_fips": "DA",
+        "CountryCodes_iso2": "DK",
+        "CountryCodes_iso3": "DNK",
+        "CountryCodes_isoN": 208,
+        "CountryCodes_tld": "dk",
+        "Capital": "Copenhagen",
+        "nationality": "Danish",
+        "regex": "^\\+45\\d{8}$"
+    },
+    {
+        "name": "Dominica",
+        "name_ar": "دومينيكا",
+        "name_fr": "Dominique",
+        "TelPref": "1 767",
+        "GeoPt": [
+            15.25,
+            -61.2
+        ],
+        "CountryCodes_fips": "DO",
+        "CountryCodes_iso2": "DM",
+        "CountryCodes_iso3": "DMA",
+        "CountryCodes_isoN": 212,
+        "CountryCodes_tld": "dm",
+        "Capital": "Roseau",
+        "nationality": "Dominican",
+        "regex": "^\\+1\\s?767\\d{7}$"
+    },
+    {
+        "name": "Dominican Republic",
+        "name_ar": "جمهورية الدومينيكان",
+        "name_fr": "République Dominicaine",
+        "TelPref": "1 809",
+        "GeoPt": [
+            19,
+            -70.4
+        ],
+        "CountryCodes_fips": "DR",
+        "CountryCodes_iso2": "DO",
+        "CountryCodes_iso3": "DOM",
+        "CountryCodes_isoN": 214,
+        "CountryCodes_tld": "do",
+        "Capital": "Santo Domingo",
+        "nationality": "Dominican",
+        "regex": "^\\+1\\s?(809|829|849)\\d{7}$"
+    },
+    {
+        "name": "Algeria",
+        "name_ar": "الجزائر",
+        "name_fr": "Algérie",
+        "TelPref": "213",
+        "GeoPt": [
+            28,
+            3
+        ],
+        "CountryCodes_fips": "AG",
+        "CountryCodes_iso2": "DZ",
+        "CountryCodes_iso3": "DZA",
+        "CountryCodes_isoN": 12,
+        "CountryCodes_tld": "dz",
+        "Capital": "Algiers",
+        "nationality": "Algerian",
+        "regex": "^\\+213[5-7]\\d{8}$"
+    },
+    {
+        "name": "Ecuador",
+        "name_ar": "الاكوادور",
+        "name_fr": "Equateur",
+        "TelPref": "593",
+        "GeoPt": [
+            -2,
+            -77.3
+        ],
+        "CountryCodes_fips": "EC",
+        "CountryCodes_iso2": "EC",
+        "CountryCodes_iso3": "ECU",
+        "CountryCodes_isoN": 218,
+        "CountryCodes_tld": "ec",
+        "Capital": "Quito",
+        "nationality": "Ecuadorian",
+        "regex": "^\\+593[2-9]\\d{7}$"
+    },
+    {
+        "name": "Estonia",
+        "name_ar": "استونيا",
+        "name_fr": "L'Estonie",
+        "TelPref": "372",
+        "GeoPt": [
+            59,
+            26
+        ],
+        "CountryCodes_fips": "EN",
+        "CountryCodes_iso2": "EE",
+        "CountryCodes_iso3": "EST",
+        "CountryCodes_isoN": 233,
+        "CountryCodes_tld": "ee",
+        "Capital": "Tallinn",
+        "nationality": "Estonian",
+        "regex": "^\\+372\\d{7,8}$"
+    },
+    {
+        "name": "Egypt",
+        "name_ar": "مصر",
+        "name_fr": "L'Egypte",
+        "TelPref": "20",
+        "GeoPt": [
+            27,
+            30
+        ],
+        "CountryCodes_fips": "EG",
+        "CountryCodes_iso2": "EG",
+        "CountryCodes_iso3": "EGY",
+        "CountryCodes_isoN": 818,
+        "CountryCodes_tld": "eg",
+        "Capital": "Cairo",
+        "nationality": "Egyptian",
+        "regex": "^\\+20[1-2]\\d{8}$"
+    },
+    {
+        "name": "Western Sahara",
+        "name_ar": "الصحراء الغربية",
+        "name_fr": "Sahara Occidental",
+        "TelPref": "",
+        "GeoPt": [
+            24.3,
+            -13
+        ],
+        "CountryCodes_fips": "WI",
+        "CountryCodes_iso2": "EH",
+        "CountryCodes_iso3": "ESH",
+        "CountryCodes_isoN": 732,
+        "CountryCodes_tld": "eh",
+        "Capital": "",
+        "nationality": "Sahrawi",
+        "regex": ""
+    },
+    {
+        "name": "Eritrea",
+        "name_ar": "إريتريا",
+        "name_fr": "L'Erythrée",
+        "TelPref": "291",
+        "GeoPt": [
+            15,
+            39
+        ],
+        "CountryCodes_fips": "ER",
+        "CountryCodes_iso2": "ER",
+        "CountryCodes_iso3": "ERI",
+        "CountryCodes_isoN": 232,
+        "CountryCodes_tld": "er",
+        "Capital": "Asmara",
+        "nationality": "Eritrean",
+        "regex": "^\\+291\\d{7}$"
+    },
+    {
+        "name": "Spain",
+        "name_ar": "إسبانيا",
+        "name_fr": "Espagne",
+        "TelPref": "34",
+        "GeoPt": [
+            40,
+            -4
+        ],
+        "CountryCodes_fips": "SP",
+        "CountryCodes_iso2": "ES",
+        "CountryCodes_iso3": "ESP",
+        "CountryCodes_isoN": 724,
+        "CountryCodes_tld": "es",
+        "Capital": "Madrid",
+        "nationality": "Spanish",
+        "regex": "^\\+34[6-7]\\d{8}$"
+    },
+    {
+        "name": "Ethiopia",
+        "name_ar": "أثيوبيا",
+        "name_fr": "L'Ethiopie",
+        "TelPref": "251",
+        "GeoPt": [
+            8,
+            38
+        ],
+        "CountryCodes_fips": "ET",
+        "CountryCodes_iso2": "ET",
+        "CountryCodes_iso3": "ETH",
+        "CountryCodes_isoN": 231,
+        "CountryCodes_tld": "et",
+        "Capital": "Addis Ababa",
+        "nationality": "Ethiopian",
+        "regex": "^\\+251[1-9]\\d{8}$"
+    },
+    {
+        "name": "Finland",
+        "name_ar": "فنلندا",
+        "name_fr": "La Finlande",
+        "TelPref": "358",
+        "GeoPt": [
+            64,
+            26
+        ],
+        "CountryCodes_fips": "FI",
+        "CountryCodes_iso2": "FI",
+        "CountryCodes_iso3": "FIN",
+        "CountryCodes_isoN": 246,
+        "CountryCodes_tld": "fi",
+        "Capital": "Helsinki",
+        "nationality": "Finnish",
+        "regex": "^\\+358\\d{7,10}$"
+    },
+    {
+        "name": "Fiji",
+        "name_ar": "فيجي",
+        "name_fr": "Fidji",
+        "TelPref": "679",
+        "GeoPt": [
+            -18,
+            175
+        ],
+        "CountryCodes_fips": "FJ",
+        "CountryCodes_iso2": "FJ",
+        "CountryCodes_iso3": "FJI",
+        "CountryCodes_isoN": 242,
+        "CountryCodes_tld": "fj",
+        "Capital": "Suva",
+        "nationality": "Fijian",
+        "regex": "^\\+679\\d{7}$"
+    },
+    {
+        "name": "Falkland Islands",
+        "name_ar": "جزر فوكلاند",
+        "name_fr": "Îles Falkland",
+        "TelPref": "500",
+        "GeoPt": [
+            -51.45,
+            -59
+        ],
+        "CountryCodes_fips": "FK",
+        "CountryCodes_iso2": "FK",
+        "CountryCodes_iso3": "FLK",
+        "CountryCodes_isoN": 238,
+        "CountryCodes_tld": "fk",
+        "Capital": "Stanley",
+        "nationality": "Falkland Islander",
+        "regex": "^\\+500\\d{5}$"
+    },
+    {
+        "name": "Micronesia",
+        "name_ar": "ميكرونيزيا",
+        "name_fr": "Micronésie",
+        "TelPref": "691",
+        "GeoPt": [
+            6.55,
+            158.15
+        ],
+        "CountryCodes_fips": "FM",
+        "CountryCodes_iso2": "FM",
+        "CountryCodes_iso3": "FSM",
+        "CountryCodes_isoN": 583,
+        "CountryCodes_tld": "fm",
+        "Capital": "Palikir",
+        "nationality": "Micronesian",
+        "regex": "^\\+691\\d{7}$"
+    },
+    {
+        "name": "Faroe Islands",
+        "name_ar": "جزر فارو",
+        "name_fr": "Iles Féroé",
+        "TelPref": "298",
+        "GeoPt": [
+            62,
+            -7
+        ],
+        "CountryCodes_fips": "FO",
+        "CountryCodes_iso2": "FO",
+        "CountryCodes_iso3": "FRO",
+        "CountryCodes_isoN": 234,
+        "CountryCodes_tld": "fo",
+        "Capital": "Torshavn",
+        "nationality": "Faroese",
+        "regex": "^\\+298\\d{6}$"
+    },
+    {
+        "name": "France",
+        "name_ar": "فرنسا",
+        "name_fr": "France",
+        "TelPref": "33",
+        "GeoPt": [
+            46,
+            2
+        ],
+        "CountryCodes_fips": "FR",
+        "CountryCodes_iso2": "FR",
+        "CountryCodes_iso3": "FRA",
+        "CountryCodes_isoN": 250,
+        "CountryCodes_tld": "fr",
+        "Capital": "Paris",
+        "nationality": "French",
+        "regex": "^\\+33[67]\\d{8}$"
+    },
+    {
+        "name": "Gabon",
+        "name_ar": "الغابون",
+        "name_fr": "Gabon",
+        "TelPref": "241",
+        "GeoPt": [
+            -1,
+            11.45
+        ],
+        "CountryCodes_fips": "GB",
+        "CountryCodes_iso2": "GA",
+        "CountryCodes_iso3": "GAB",
+        "CountryCodes_isoN": 266,
+        "CountryCodes_tld": "ga",
+        "Capital": "Libreville",
+        "nationality": "Gabonese",
+        "regex": "^\\+241\\d{7,8}$"
+    },
+    {
+        "name": "United Kingdom",
+        "name_ar": "المملكة المتحدة",
+        "name_fr": "Royaume-Uni",
+        "TelPref": "44",
+        "GeoPt": [
+            54,
+            -2
+        ],
+        "CountryCodes_fips": "UK",
+        "CountryCodes_iso2": "GB",
+        "CountryCodes_iso3": "GBR",
+        "CountryCodes_isoN": 826,
+        "CountryCodes_tld": "uk",
+        "Capital": "London",
+        "nationality": "British",
+        "regex": "^\\+44[1-9]\\d{8,9}$"
+    },
+    {
+        "name": "Grenada",
+        "name_ar": "غرينادا",
+        "name_fr": "Grenade",
+        "TelPref": "1 473",
+        "GeoPt": [
+            12.07,
+            -61.4
+        ],
+        "CountryCodes_fips": "GJ",
+        "CountryCodes_iso2": "GD",
+        "CountryCodes_iso3": "GRD",
+        "CountryCodes_isoN": 308,
+        "CountryCodes_tld": "gd",
+        "Capital": "Saint George's",
+        "nationality": "Grenadian",
+        "regex": "^\\+1\\s?473\\d{7}$"
+    },
+    {
+        "name": "Georgia",
+        "name_ar": "جورجيا",
+        "name_fr": "Géorgie",
+        "TelPref": "995",
+        "GeoPt": [
+            42,
+            43.3
+        ],
+        "CountryCodes_fips": "GG",
+        "CountryCodes_iso2": "GE",
+        "CountryCodes_iso3": "GEO",
+        "CountryCodes_isoN": 268,
+        "CountryCodes_tld": "ge",
+        "Capital": "T'bilisi",
+        "nationality": "Georgian",
+        "regex": "^\\+995(5\\d{8}|32\\d{7})$"
+    },
+    {
+        "name": "French Guiana",
+        "name_ar": "غيانا الفرنسية",
+        "name_fr": "Guyane française",
+        "TelPref": "",
+        "GeoPt": [
+            0,
+            0
+        ],
+        "CountryCodes_fips": "GF",
+        "CountryCodes_iso2": "GF",
+        "CountryCodes_iso3": "",
+        "CountryCodes_isoN": "",
+        "CountryCodes_tld": "gf",
+        "Capital": "Cayenne",
+        "nationality": "French Guianese",
+        "regex": ""
+    },
+    {
+        "name": "Guernsey",
+        "name_ar": "غيرنسي",
+        "name_fr": "Guernesey",
+        "TelPref": "44",
+        "GeoPt": [
+            49.28,
+            -2.35
+        ],
+        "CountryCodes_fips": "GK",
+        "CountryCodes_iso2": "GG",
+        "CountryCodes_iso3": "GGY",
+        "CountryCodes_isoN": 831,
+        "CountryCodes_tld": "gg",
+        "Capital": "Saint Peter Port",
+        "nationality": "Guernsey",
+        "regex": "^\\+44\\d{9,10}$"
+    },
+    {
+        "name": "Ghana",
+        "name_ar": "غانا",
+        "name_fr": "Le Ghana",
+        "TelPref": "233",
+        "GeoPt": [
+            8,
+            -2
+        ],
+        "CountryCodes_fips": "GH",
+        "CountryCodes_iso2": "GH",
+        "CountryCodes_iso3": "GHA",
+        "CountryCodes_isoN": 288,
+        "CountryCodes_tld": "gh",
+        "Capital": "Accra",
+        "nationality": "Ghanaian",
+        "regex": "^\\+233(2[034678]|5[0456])\\d{7}$"
+    },
+    {
+        "name": "Gibraltar",
+        "name_ar": "جبل طارق",
+        "name_fr": "Gibraltar",
+        "TelPref": "350",
+        "GeoPt": [
+            36.08,
+            -5.21
+        ],
+        "CountryCodes_fips": "GI",
+        "CountryCodes_iso2": "GI",
+        "CountryCodes_iso3": "GIB",
+        "CountryCodes_isoN": 292,
+        "CountryCodes_tld": "gi",
+        "Capital": "Gibraltar",
+        "nationality": "Gibraltarian",
+        "regex": "^\\+350\\d{8}$"
+    },
+    {
+        "name": "Greenland",
+        "name_ar": "غرينلاند",
+        "name_fr": "Groenland",
+        "TelPref": "299",
+        "GeoPt": [
+            72,
+            -40
+        ],
+        "CountryCodes_fips": "GL",
+        "CountryCodes_iso2": "GL",
+        "CountryCodes_iso3": "GRL",
+        "CountryCodes_isoN": 304,
+        "CountryCodes_tld": "gl",
+        "Capital": "Nuuk",
+        "nationality": "Greenlandic",
+        "regex": "^\\+299\\d{6}$"
+    },
+    {
+        "name": "Gambia",
+        "name_ar": "غامبيا",
+        "name_fr": "Gambie",
+        "TelPref": "220",
+        "GeoPt": [
+            13.28,
+            -16.34
+        ],
+        "CountryCodes_fips": "GA",
+        "CountryCodes_iso2": "GM",
+        "CountryCodes_iso3": "GMB",
+        "CountryCodes_isoN": 270,
+        "CountryCodes_tld": "gm",
+        "Capital": "Banjul",
+        "nationality": "Gambian",
+        "regex": "^\\+220\\d{7}$"
+    },
+    {
+        "name": "Guinea",
+        "name_ar": "غينيا",
+        "name_fr": "Guinée",
+        "TelPref": "224",
+        "GeoPt": [
+            11,
+            -10
+        ],
+        "CountryCodes_fips": "GV",
+        "CountryCodes_iso2": "GN",
+        "CountryCodes_iso3": "GIN",
+        "CountryCodes_isoN": 324,
+        "CountryCodes_tld": "gn",
+        "Capital": "Conakry",
+        "nationality": "Guinean",
+        "regex": "^\\+224\\d{8}$"
+    },
+    {
+        "name": "Guadeloupe",
+        "name_ar": "جواديلوب",
+        "name_fr": "Guadeloupe",
+        "TelPref": "",
+        "GeoPt": [
+            0,
+            0
+        ],
+        "CountryCodes_fips": "GP",
+        "CountryCodes_iso2": "GP",
+        "CountryCodes_iso3": "",
+        "CountryCodes_isoN": "",
+        "CountryCodes_tld": "gp",
+        "Capital": "Basse-Terre",
+        "nationality": "Guadeloupean",
+        "regex": ""
+    },
+    {
+        "name": "Equatorial Guinea",
+        "name_ar": "غينيا الاستوائية",
+        "name_fr": "La Guinée Equatoriale",
+        "TelPref": "240",
+        "GeoPt": [
+            2,
+            10
+        ],
+        "CountryCodes_fips": "EK",
+        "CountryCodes_iso2": "GQ",
+        "CountryCodes_iso3": "GNQ",
+        "CountryCodes_isoN": 226,
+        "CountryCodes_tld": "gq",
+        "Capital": "Malabo",
+        "nationality": "Equatorial Guinean",
+        "regex": "^\\+240\\d{9}$"
+    },
+    {
+        "name": "Greece",
+        "name_ar": "يونان",
+        "name_fr": "La Grèce",
+        "TelPref": "30",
+        "GeoPt": [
+            39,
+            22
+        ],
+        "CountryCodes_fips": "GR",
+        "CountryCodes_iso2": "GR",
+        "CountryCodes_iso3": "GRC",
+        "CountryCodes_isoN": 300,
+        "CountryCodes_tld": "gr",
+        "Capital": "Athens",
+        "nationality": "Greek",
+        "regex": "^\\+30\\d{10}$"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "name_ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+        "name_fr": "Géorgie du Sud et îles Sandwich du Sud",
+        "TelPref": "",
+        "GeoPt": [
+            0,
+            0
+        ],
+        "CountryCodes_fips": "GS",
+        "CountryCodes_iso2": "GS",
+        "CountryCodes_iso3": "",
+        "CountryCodes_isoN": "",
+        "CountryCodes_tld": "gs",
+        "Capital": "South Georgia and the South Sandwich Islands",
+        "nationality": "South Georgian and South Sandwich Islander",
+        "regex": ""
+    },
+    {
+        "name": "Guatemala",
+        "name_ar": "غواتيمالا",
+        "name_fr": "Le Guatemala",
+        "TelPref": "502",
+        "GeoPt": [
+            15.3,
+            -90.15
+        ],
+        "CountryCodes_fips": "GT",
+        "CountryCodes_iso2": "GT",
+        "CountryCodes_iso3": "GTM",
+        "CountryCodes_isoN": 320,
+        "CountryCodes_tld": "gt",
+        "Capital": "Guatemala City",
+        "nationality": "Guatemalan",
+        "regex": "^\\+502[2-7]\\d{7}$"
+    },
+    {
+        "name": "Guam",
+        "name_ar": "غوام",
+        "name_fr": "Guam",
+        "TelPref": "1 671",
+        "GeoPt": [
+            13.28,
+            144.47
+        ],
+        "CountryCodes_fips": "GQ",
+        "CountryCodes_iso2": "GU",
+        "CountryCodes_iso3": "GUM",
+        "CountryCodes_isoN": 316,
+        "CountryCodes_tld": "gu",
+        "Capital": "Hagatna",
+        "nationality": "Guamanian",
+        "regex": "^\\+1\\s?671\\d{7}$"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "name_ar": "غينيا بيساو",
+        "name_fr": "Guinée-Bissau",
+        "TelPref": "245",
+        "GeoPt": [
+            12,
+            -15
+        ],
+        "CountryCodes_fips": "PU",
+        "CountryCodes_iso2": "GW",
+        "CountryCodes_iso3": "GNB",
+        "CountryCodes_isoN": 624,
+        "CountryCodes_tld": "gw",
+        "Capital": "Bissau",
+        "nationality": "Bissau-Guinean",
+        "regex": "^\\+245\\d{7}$"
+    },
+    {
+        "name": "Guyana",
+        "name_ar": "غيانا",
+        "name_fr": "Guyane",
+        "TelPref": "592",
+        "GeoPt": [
+            5,
+            -59
+        ],
+        "CountryCodes_fips": "GY",
+        "CountryCodes_iso2": "GY",
+        "CountryCodes_iso3": "GUY",
+        "CountryCodes_isoN": 328,
+        "CountryCodes_tld": "gy",
+        "Capital": "Georgetown",
+        "nationality": "Guyanese",
+        "regex": "^\\+592\\d{7}$"
+    },
+    {
+        "name": "Hong Kong",
+        "name_ar": "هونغ كونغ",
+        "name_fr": "Hong Kong",
+        "TelPref": "852",
+        "GeoPt": [
+            22.15,
+            114.1
+        ],
+        "CountryCodes_fips": "HK",
+        "CountryCodes_iso2": "HK",
+        "CountryCodes_iso3": "HKG",
+        "CountryCodes_isoN": 344,
+        "CountryCodes_tld": "hk",
+        "Capital": "",
+        "nationality": "Hong Konger",
+        "regex": "^\\+852\\d{8}$"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "name_ar": "جزيرة هيرد وجزر ماكدونالد",
+        "name_fr": "Les îles Heard et McDonald",
+        "TelPref": "",
+        "GeoPt": [
+            -53.06,
+            72.31
+        ],
+        "CountryCodes_fips": "HM",
+        "CountryCodes_iso2": "HM",
+        "CountryCodes_iso3": "HMD",
+        "CountryCodes_isoN": 334,
+        "CountryCodes_tld": "hm",
+        "Capital": "",
+        "nationality": "Heard Islander and McDonald Islander",
+        "regex": ""
+    },
+    {
+        "name": "Honduras",
+        "name_ar": "هندوراس",
+        "name_fr": "Le Honduras",
+        "TelPref": "504",
+        "GeoPt": [
+            15,
+            -86.3
+        ],
+        "CountryCodes_fips": "HO",
+        "CountryCodes_iso2": "HN",
+        "CountryCodes_iso3": "HND",
+        "CountryCodes_isoN": 340,
+        "CountryCodes_tld": "hn",
+        "Capital": "Tegucigalpa",
+        "nationality": "Honduran",
+        "regex": "^\\+504[2-9]\\d{7}$"
+    },
+    {
+        "name": "Croatia",
+        "name_ar": "كرواتيا",
+        "name_fr": "La Croatie",
+        "TelPref": "385",
+        "GeoPt": [
+            45.1,
+            15.3
+        ],
+        "CountryCodes_fips": "HR",
+        "CountryCodes_iso2": "HR",
+        "CountryCodes_iso3": "HRV",
+        "CountryCodes_isoN": 191,
+        "CountryCodes_tld": "hr",
+        "Capital": "Zagreb",
+        "nationality": "Croatian",
+        "regex": "^\\+385\\d{8,9}$"
+    },
+    {
+        "name": "Haiti",
+        "name_ar": "هايتي",
+        "name_fr": "Haïti",
+        "TelPref": "509",
+        "GeoPt": [
+            19,
+            -72.25
+        ],
+        "CountryCodes_fips": "HA",
+        "CountryCodes_iso2": "HT",
+        "CountryCodes_iso3": "HTI",
+        "CountryCodes_isoN": 332,
+        "CountryCodes_tld": "ht",
+        "Capital": "Port-au-Prince",
+        "nationality": "Haitian",
+        "regex": "^\\+509\\d{8}$"
+    },
+    {
+        "name": "Hungary",
+        "name_ar": "هنغاريا",
+        "name_fr": "La Hongrie",
+        "TelPref": "36",
+        "GeoPt": [
+            47,
+            20
+        ],
+        "CountryCodes_fips": "HU",
+        "CountryCodes_iso2": "HU",
+        "CountryCodes_iso3": "HUN",
+        "CountryCodes_isoN": 348,
+        "CountryCodes_tld": "hu",
+        "Capital": "Budapest",
+        "nationality": "Hungarian",
+        "regex": "^\\+36\\d{6,12}$"
+    },
+    {
+        "name": "Indonesia",
+        "name_ar": "أندونيسيا",
+        "name_fr": "L'Indonésie",
+        "TelPref": "62",
+        "GeoPt": [
+            -5,
+            120
+        ],
+        "CountryCodes_fips": "ID",
+        "CountryCodes_iso2": "ID",
+        "CountryCodes_iso3": "IDN",
+        "CountryCodes_isoN": 360,
+        "CountryCodes_tld": "id",
+        "Capital": "Jakarta",
+        "nationality": "Indonesian",
+        "regex": "^\\+62\\d{6,12}$"
+    },
+    {
+        "name": "Ireland",
+        "name_ar": "ايرلندا",
+        "name_fr": "L'Irlande",
+        "TelPref": "353",
+        "GeoPt": [
+            53,
+            -8
+        ],
+        "CountryCodes_fips": "EI",
+        "CountryCodes_iso2": "IE",
+        "CountryCodes_iso3": "IRL",
+        "CountryCodes_isoN": 372,
+        "CountryCodes_tld": "ie",
+        "Capital": "Dublin",
+        "nationality": "Irish",
+        "regex": "^\\+353\\d{6,12}$"
+    },
+    {
+        "name": "Isle of Man",
+        "name_ar": "جزيرة مان",
+        "name_fr": "Ile de Man",
+        "TelPref": "44",
+        "GeoPt": [
+            54.15,
+            -4.3
+        ],
+        "CountryCodes_fips": "IM",
+        "CountryCodes_iso2": "IM",
+        "CountryCodes_iso3": "IMN",
+        "CountryCodes_isoN": 833,
+        "CountryCodes_tld": "im",
+        "Capital": "Douglas",
+        "nationality": "Manx",
+        "regex": "^\\+44\\d{6,12}$"
+    },
+    {
+        "name": "India",
+        "name_ar": "الهند",
+        "name_fr": "L'Inde",
+        "TelPref": "91",
+        "GeoPt": [
+            20,
+            77
+        ],
+        "CountryCodes_fips": "IN",
+        "CountryCodes_iso2": "IN",
+        "CountryCodes_iso3": "IND",
+        "CountryCodes_isoN": 356,
+        "CountryCodes_tld": "in",
+        "Capital": "New Delhi",
+        "nationality": "Indian",
+        "regex": "^\\+91\\d{6,12}$"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "name_ar": "إقليم المحيط الهندي البريطاني",
+        "name_fr": "Territoire britannique de l'océan Indien",
+        "TelPref": "",
+        "GeoPt": [
+            -6,
+            71.3
+        ],
+        "CountryCodes_fips": "IO",
+        "CountryCodes_iso2": "IO",
+        "CountryCodes_iso3": "IOT",
+        "CountryCodes_isoN": 86,
+        "CountryCodes_tld": "io",
+        "Capital": "",
+        "nationality": "British Indian Ocean Territory citizen",
+        "regex": ""
+    },
+    {
+        "name": "Iraq",
+        "name_ar": "العراق",
+        "name_fr": "L'Irak",
+        "TelPref": "964",
+        "GeoPt": [
+            33,
+            44
+        ],
+        "CountryCodes_fips": "IZ",
+        "CountryCodes_iso2": "IQ",
+        "CountryCodes_iso3": "IRQ",
+        "CountryCodes_isoN": 368,
+        "CountryCodes_tld": "iq",
+        "Capital": "Baghdad",
+        "nationality": "Iraqi",
+        "regex": "^\\+964\\d{6,12}$"
+    },
+    {
+        "name": "Iran",
+        "name_ar": "ايران",
+        "name_fr": "L'Iran",
+        "TelPref": "98",
+        "GeoPt": [
+            32,
+            53
+        ],
+        "CountryCodes_fips": "IR",
+        "CountryCodes_iso2": "IR",
+        "CountryCodes_iso3": "IRN",
+        "CountryCodes_isoN": 364,
+        "CountryCodes_tld": "ir",
+        "Capital": "Tehran",
+        "nationality": "Iranian",
+        "regex": "^\\+98\\d{6,12}$"
+    },
+    {
+        "name": "Iceland",
+        "name_ar": "أيسلندا",
+        "name_fr": "L'Islande",
+        "TelPref": "354",
+        "GeoPt": [
+            65,
+            -18
+        ],
+        "CountryCodes_fips": "IC",
+        "CountryCodes_iso2": "IS",
+        "CountryCodes_iso3": "ISL",
+        "CountryCodes_isoN": 352,
+        "CountryCodes_tld": "is",
+        "Capital": "Reykjavik",
+        "nationality": "Icelandic",
+        "regex": "^\\+354\\d{6,12}$"
+    },
+    {
+        "name": "Italy",
+        "name_ar": "إيطاليا",
+        "name_fr": "L'Italie",
+        "TelPref": "39",
+        "GeoPt": [
+            42.5,
+            12.5
+        ],
+        "CountryCodes_fips": "IT",
+        "CountryCodes_iso2": "IT",
+        "CountryCodes_iso3": "ITA",
+        "CountryCodes_isoN": 380,
+        "CountryCodes_tld": "it",
+        "Capital": "Rome",
+        "nationality": "Italian",
+        "regex": "^\\+39\\d{6,12}$"
+    },
+    {
+        "name": "Jersey",
+        "name_ar": "جيرسي",
+        "name_fr": "Maillot",
+        "TelPref": "",
+        "GeoPt": [
+            49.15,
+            -2.1
+        ],
+        "CountryCodes_fips": "JE",
+        "CountryCodes_iso2": "JE",
+        "CountryCodes_iso3": "JEY",
+        "CountryCodes_isoN": 832,
+        "CountryCodes_tld": "je",
+        "Capital": "Saint Helier",
+        "nationality": "Jersey",
+        "regex": ""
+    },
+    {
+        "name": "Jamaica",
+        "name_ar": "جامايكا",
+        "name_fr": "La Jamaïque",
+        "TelPref": "1 876",
+        "GeoPt": [
+            18.15,
+            -77.3
+        ],
+        "CountryCodes_fips": "JM",
+        "CountryCodes_iso2": "JM",
+        "CountryCodes_iso3": "JAM",
+        "CountryCodes_isoN": 388,
+        "CountryCodes_tld": "jm",
+        "Capital": "Kingston",
+        "nationality": "Jamaican",
+        "regex": "^\\+1876\\d{6,12}$"
+    },
+    {
+        "name": "Jordan",
+        "name_ar": "الأردن",
+        "name_fr": "Jordan",
+        "TelPref": "962",
+        "GeoPt": [
+            31,
+            36
+        ],
+        "CountryCodes_fips": "JO",
+        "CountryCodes_iso2": "JO",
+        "CountryCodes_iso3": "JOR",
+        "CountryCodes_isoN": 400,
+        "CountryCodes_tld": "jo",
+        "Capital": "Amman",
+        "nationality": "Jordanian",
+        "regex": "^\\+962\\d{6,12}$"
+    },
+    {
+        "name": "Japan",
+        "name_ar": "اليابان",
+        "name_fr": "Le Japon",
+        "TelPref": "81",
+        "GeoPt": [
+            36,
+            138
+        ],
+        "CountryCodes_fips": "JA",
+        "CountryCodes_iso2": "JP",
+        "CountryCodes_iso3": "JPN",
+        "CountryCodes_isoN": 392,
+        "CountryCodes_tld": "jp",
+        "Capital": "Tokyo",
+        "nationality": "Japanese",
+        "regex": "^\\+81\\d{6,12}$"
+    },
+    {
+        "name": "Kenya",
+        "name_ar": "كينيا",
+        "name_fr": "Le Kenya",
+        "TelPref": "254",
+        "GeoPt": [
+            1,
+            38
+        ],
+        "CountryCodes_fips": "KE",
+        "CountryCodes_iso2": "KE",
+        "CountryCodes_iso3": "KEN",
+        "CountryCodes_isoN": 404,
+        "CountryCodes_tld": "ke",
+        "Capital": "Nairobi",
+        "nationality": "Kenyan",
+        "regex": "^\\+254\\d{6,12}$"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "name_ar": "قيرغيزستان",
+        "name_fr": "Kirghizstan",
+        "TelPref": "996",
+        "GeoPt": [
+            41,
+            75
+        ],
+        "CountryCodes_fips": "KG",
+        "CountryCodes_iso2": "KG",
+        "CountryCodes_iso3": "KGZ",
+        "CountryCodes_isoN": 417,
+        "CountryCodes_tld": "kg",
+        "Capital": "Bishkek",
+        "nationality": "Kyrgyzstani",
+        "regex": "^\\+996\\d{6,12}$"
+    },
+    {
+        "name": "Cambodia",
+        "name_ar": "كمبوديا",
+        "name_fr": "Le Cambodge",
+        "TelPref": "855",
+        "GeoPt": [
+            13,
+            105
+        ],
+        "CountryCodes_fips": "CB",
+        "CountryCodes_iso2": "KH",
+        "CountryCodes_iso3": "KHM",
+        "CountryCodes_isoN": 116,
+        "CountryCodes_tld": "kh",
+        "Capital": "Phnom Penh",
+        "nationality": "Cambodian",
+        "regex": "^\\+855\\d{6,12}$"
+    },
+    {
+        "name": "Kiribati",
+        "name_ar": "كيريباتي",
+        "name_fr": "Kiribati",
+        "TelPref": "686",
+        "GeoPt": [
+            1.25,
+            173
+        ],
+        "CountryCodes_fips": "KR",
+        "CountryCodes_iso2": "KI",
+        "CountryCodes_iso3": "KIR",
+        "CountryCodes_isoN": 296,
+        "CountryCodes_tld": "ki",
+        "Capital": "Tarawa",
+        "nationality": "I-Kiribati",
+        "regex": "^\\+686\\d{6,12}$"
+    },
+    {
+        "name": "Comoros",
+        "name_ar": "جزر القمر",
+        "name_fr": "Comores",
+        "TelPref": "269",
+        "GeoPt": [
+            -12.1,
+            44.15
+        ],
+        "CountryCodes_fips": "CN",
+        "CountryCodes_iso2": "KM",
+        "CountryCodes_iso3": "COM",
+        "CountryCodes_isoN": 174,
+        "CountryCodes_tld": "km",
+        "Capital": "Moroni",
+        "nationality": "Comorian",
+        "regex": "^\\+269\\d{6,12}$"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "name_ar": "سانت كيتس ونيفيس",
+        "name_fr": "Saint Kitts et Nevis",
+        "TelPref": "1 869",
+        "GeoPt": [
+            17.2,
+            -62.45
+        ],
+        "CountryCodes_fips": "SC",
+        "CountryCodes_iso2": "KN",
+        "CountryCodes_iso3": "KNA",
+        "CountryCodes_isoN": 659,
+        "CountryCodes_tld": "kn",
+        "Capital": "Basseterre",
+        "nationality": "Kittitian or Nevisian",
+        "regex": "^\\+1869\\d{6,12}$"
+    },
+    {
+        "name": "Korea North",
+        "name_ar": "كوريا الشمالية",
+        "name_fr": "Corée du Nord",
+        "TelPref": "850",
+        "GeoPt": [
+            40,
+            127
+        ],
+        "CountryCodes_fips": "KN",
+        "CountryCodes_iso2": "KP",
+        "CountryCodes_iso3": "PRK",
+        "CountryCodes_isoN": 408,
+        "CountryCodes_tld": "kp",
+        "Capital": "Pyongyang",
+        "nationality": "North Korean",
+        "regex": "^\\+850\\d{6,12}$"
+    },
+    {
+        "name": "Korea South",
+        "name_ar": "كوريا الجنوبية",
+        "name_fr": "Corée du Sud",
+        "TelPref": "82",
+        "GeoPt": [
+            37,
+            127.3
+        ],
+        "CountryCodes_fips": "KS",
+        "CountryCodes_iso2": "KR",
+        "CountryCodes_iso3": "KOR",
+        "CountryCodes_isoN": 410,
+        "CountryCodes_tld": "kr",
+        "Capital": "Seoul",
+        "nationality": "South Korean",
+        "regex": "^\\+82\\d{6,12}$"
+    },
+    {
+        "name": "Kuwait",
+        "name_ar": "الكويت",
+        "name_fr": "Le Koweït",
+        "TelPref": "965",
+        "GeoPt": [
+            29.3,
+            45.45
+        ],
+        "CountryCodes_fips": "KU",
+        "CountryCodes_iso2": "KW",
+        "CountryCodes_iso3": "KWT",
+        "CountryCodes_isoN": 414,
+        "CountryCodes_tld": "kw",
+        "Capital": "Kuwait City",
+        "nationality": "Kuwaiti",
+        "regex": "^\\+965\\d{6,12}$"
+    },
+    {
+        "name": "Cayman Islands",
+        "name_ar": "جزر كايمان",
+        "name_fr": "Iles Caïmans",
+        "TelPref": "1 345",
+        "GeoPt": [
+            19.3,
+            -80.3
+        ],
+        "CountryCodes_fips": "CJ",
+        "CountryCodes_iso2": "KY",
+        "CountryCodes_iso3": "CYM",
+        "CountryCodes_isoN": 136,
+        "CountryCodes_tld": "ky",
+        "Capital": "George Town",
+        "nationality": "Caymanian",
+        "regex": "^\\+1345\\d{6,12}$"
+    },
+    {
+        "name": "Kazakhstan",
+        "name_ar": "كازاخستان",
+        "name_fr": "Le Kazakhstan",
+        "TelPref": "7",
+        "GeoPt": [
+            48,
+            68
+        ],
+        "CountryCodes_fips": "KZ",
+        "CountryCodes_iso2": "KZ",
+        "CountryCodes_iso3": "KAZ",
+        "CountryCodes_isoN": 398,
+        "CountryCodes_tld": "kz",
+        "Capital": "Astana",
+        "nationality": "Kazakhstani",
+        "regex": "^\\+7\\d{6,12}$"
+    },
+    {
+        "name": "Laos",
+        "name_ar": "لاوس",
+        "name_fr": "Le Laos",
+        "TelPref": "856",
+        "GeoPt": [
+            18,
+            105
+        ],
+        "CountryCodes_fips": "LA",
+        "CountryCodes_iso2": "LA",
+        "CountryCodes_iso3": "LAO",
+        "CountryCodes_isoN": 418,
+        "CountryCodes_tld": "la",
+        "Capital": "Vientiane",
+        "nationality": "Lao",
+        "regex": "^\\+856\\d{6,12}$"
+    },
+    {
+        "name": "Lebanon",
+        "name_ar": "لبنان",
+        "name_fr": "Le Liban",
+        "TelPref": "961",
+        "GeoPt": [
+            33.5,
+            35.5
+        ],
+        "CountryCodes_fips": "LE",
+        "CountryCodes_iso2": "LB",
+        "CountryCodes_iso3": "LBN",
+        "CountryCodes_isoN": 422,
+        "CountryCodes_tld": "lb",
+        "Capital": "Beirut",
+        "nationality": "Lebanese",
+        "regex": "^\\+961\\d{6,12}$"
+    },
+    {
+        "name": "Saint Lucia",
+        "name_ar": "سانت لوسيا",
+        "name_fr": "Sainte-Lucie",
+        "TelPref": "1 758",
+        "GeoPt": [
+            13.53,
+            -60.58
+        ],
+        "CountryCodes_fips": "ST",
+        "CountryCodes_iso2": "LC",
+        "CountryCodes_iso3": "LCA",
+        "CountryCodes_isoN": 662,
+        "CountryCodes_tld": "lc",
+        "Capital": "Castries",
+        "nationality": "Saint Lucian",
+        "regex": "^\\+1758\\d{6,12}$"
+    },
+    {
+        "name": "Liechtenstein",
+        "name_ar": "ليختنشتاين",
+        "name_fr": "Le Liechtenstein",
+        "TelPref": "423",
+        "GeoPt": [
+            47.16,
+            9.32
+        ],
+        "CountryCodes_fips": "LS",
+        "CountryCodes_iso2": "LI",
+        "CountryCodes_iso3": "LIE",
+        "CountryCodes_isoN": 438,
+        "CountryCodes_tld": "li",
+        "Capital": "Vaduz",
+        "nationality": "Liechtensteiner",
+        "regex": "^\\+423\\d{6,12}$"
+    },
+    {
+        "name": "Sri Lanka",
+        "name_ar": "سري لانكا",
+        "name_fr": "Sri Lanka",
+        "TelPref": "94",
+        "GeoPt": [
+            7,
+            81
+        ],
+        "CountryCodes_fips": "CE",
+        "CountryCodes_iso2": "LK",
+        "CountryCodes_iso3": "LKA",
+        "CountryCodes_isoN": 144,
+        "CountryCodes_tld": "lk",
+        "Capital": "Colombo",
+        "nationality": "Sri Lankan",
+        "regex": "^\\+94\\d{6,12}$"
+    },
+    {
+        "name": "Liberia",
+        "name_ar": "ليبيريا",
+        "name_fr": "Liberia",
+        "TelPref": "231",
+        "GeoPt": [
+            6.3,
+            -9.3
+        ],
+        "CountryCodes_fips": "LI",
+        "CountryCodes_iso2": "LR",
+        "CountryCodes_iso3": "LBR",
+        "CountryCodes_isoN": 430,
+        "CountryCodes_tld": "lr",
+        "Capital": "Monrovia",
+        "nationality": "Liberian",
+        "regex": "^\\+231\\d{6,12}$"
+    },
+    {
+        "name": "Lesotho",
+        "name_ar": "ليسوتو",
+        "name_fr": "Le Lesotho",
+        "TelPref": "266",
+        "GeoPt": [
+            -29.3,
+            28.3
+        ],
+        "CountryCodes_fips": "LT",
+        "CountryCodes_iso2": "LS",
+        "CountryCodes_iso3": "LSO",
+        "CountryCodes_isoN": 426,
+        "CountryCodes_tld": "ls",
+        "Capital": "Maseru",
+        "nationality": "Mosotho",
+        "regex": "^\\+266\\d{6,12}$"
+    },
+    {
+        "name": "Lithuania",
+        "name_ar": "ليتوانيا",
+        "name_fr": "La Lituanie",
+        "TelPref": "370",
+        "GeoPt": [
+            56,
+            24
+        ],
+        "CountryCodes_fips": "LH",
+        "CountryCodes_iso2": "LT",
+        "CountryCodes_iso3": "LTU",
+        "CountryCodes_isoN": 440,
+        "CountryCodes_tld": "lt",
+        "Capital": "Vilnius",
+        "nationality": "Lithuanian",
+        "regex": "^\\+370\\d{6,12}$"
+    },
+    {
+        "name": "Luxembourg",
+        "name_ar": "لوكسمبورغ",
+        "name_fr": "Luxembourg",
+        "TelPref": "352",
+        "GeoPt": [
+            49.45,
+            6.1
+        ],
+        "CountryCodes_fips": "LU",
+        "CountryCodes_iso2": "LU",
+        "CountryCodes_iso3": "LUX",
+        "CountryCodes_isoN": 442,
+        "CountryCodes_tld": "lu",
+        "Capital": "Luxembourg",
+        "nationality": "Luxembourger",
+        "regex": "^\\+352\\d{6,12}$"
+    },
+    {
+        "name": "Latvia",
+        "name_ar": "لاتفيا",
+        "name_fr": "La Lettonie",
+        "TelPref": "371",
+        "GeoPt": [
+            57,
+            25
+        ],
+        "CountryCodes_fips": "LG",
+        "CountryCodes_iso2": "LV",
+        "CountryCodes_iso3": "LVA",
+        "CountryCodes_isoN": 428,
+        "CountryCodes_tld": "lv",
+        "Capital": "Riga",
+        "nationality": "Latvian",
+        "regex": "^\\+371\\d{6,12}$"
+    },
+    {
+        "name": "Libya",
+        "name_ar": "ليبيا",
+        "name_fr": "Libye",
+        "TelPref": "218",
+        "GeoPt": [
+            25,
+            17
+        ],
+        "CountryCodes_fips": "LY",
+        "CountryCodes_iso2": "LY",
+        "CountryCodes_iso3": "LBY",
+        "CountryCodes_isoN": 434,
+        "CountryCodes_tld": "ly",
+        "Capital": "Tripoli",
+        "nationality": "Libyan",
+        "regex": "^\\+218\\d{6,12}$"
+    },
+    {
+        "name": "Morocco",
+        "name_ar": "مغربي",
+        "name_fr": "Maroc",
+        "TelPref": "212",
+        "GeoPt": [
+            32,
+            -5
+        ],
+        "CountryCodes_fips": "MO",
+        "CountryCodes_iso2": "MA",
+        "CountryCodes_iso3": "MAR",
+        "CountryCodes_isoN": 504,
+        "CountryCodes_tld": "ma",
+        "Capital": "Rabat",
+        "nationality": "Moroccan",
+        "regex": "^\\+212\\d{6,12}$"
+    },
+    {
+        "name": "Monaco",
+        "name_ar": "موناكو",
+        "name_fr": "Monaco",
+        "TelPref": "377",
+        "GeoPt": [
+            43.44,
+            7.24
+        ],
+        "CountryCodes_fips": "MN",
+        "CountryCodes_iso2": "MC",
+        "CountryCodes_iso3": "MCO",
+        "CountryCodes_isoN": 492,
+        "CountryCodes_tld": "mc",
+        "Capital": "Monaco",
+        "nationality": "Monegasque",
+        "regex": "^\\+377\\d{6,12}$"
+    },
+    {
+        "name": "Moldova",
+        "name_ar": "مولدوفا",
+        "name_fr": "Moldavie",
+        "TelPref": "373",
+        "GeoPt": [
+            47,
+            29
+        ],
+        "CountryCodes_fips": "MD",
+        "CountryCodes_iso2": "MD",
+        "CountryCodes_iso3": "MDA",
+        "CountryCodes_isoN": 498,
+        "CountryCodes_tld": "md",
+        "Capital": "Chisinau",
+        "nationality": "Moldovan",
+        "regex": "^\\+373\\d{6,12}$"
+    },
+    {
+        "name": "Montenegro",
+        "name_ar": "الجبل الأسود",
+        "name_fr": "Monténégro",
+        "TelPref": "382",
+        "GeoPt": [
+            42.3,
+            19.18
+        ],
+        "CountryCodes_fips": "MJ",
+        "CountryCodes_iso2": "ME",
+        "CountryCodes_iso3": "MNE",
+        "CountryCodes_isoN": 499,
+        "CountryCodes_tld": "me",
+        "Capital": "Podgorica",
+        "nationality": "Montenegrin",
+        "regex": "^\\+382\\d{6,12}$"
+    },
+    {
+        "name": "Saint Martin",
+        "name_ar": "سانت مارتن",
+        "name_fr": "Saint Martin",
+        "TelPref": "1 599",
+        "GeoPt": [
+            18.05,
+            -63.57
+        ],
+        "CountryCodes_fips": "RN",
+        "CountryCodes_iso2": "MF",
+        "CountryCodes_iso3": "MAF",
+        "CountryCodes_isoN": 663,
+        "CountryCodes_tld": "mf",
+        "Capital": "Marigot",
+        "nationality": "Saint Martinoise",
+        "regex": "^\\+1599\\d{6,12}$"
+    },
+    {
+        "name": "Madagascar",
+        "name_ar": "مدغشقر",
+        "name_fr": "Madagascar",
+        "TelPref": "261",
+        "GeoPt": [
+            -20,
+            47
+        ],
+        "CountryCodes_fips": "MA",
+        "CountryCodes_iso2": "MG",
+        "CountryCodes_iso3": "MDG",
+        "CountryCodes_isoN": 450,
+        "CountryCodes_tld": "mg",
+        "Capital": "Antananarivo",
+        "nationality": "Malagasy",
+        "regex": "^\\+261\\d{6,12}$"
+    },
+    {
+        "name": "Marshall Islands",
+        "name_ar": "جزر مارشال",
+        "name_fr": "Iles Marshall",
+        "TelPref": "692",
+        "GeoPt": [
+            9,
+            168
+        ],
+        "CountryCodes_fips": "RM",
+        "CountryCodes_iso2": "MH",
+        "CountryCodes_iso3": "MHL",
+        "CountryCodes_isoN": 584,
+        "CountryCodes_tld": "mh",
+        "Capital": "Majuro",
+        "nationality": "Marshallese",
+        "regex": "^\\+692\\d{6,12}$"
+    },
+    {
+        "name": "Macedonia",
+        "name_ar": "مقدونيا",
+        "name_fr": "Macédoine",
+        "TelPref": "389",
+        "GeoPt": [
+            41.5,
+            22
+        ],
+        "CountryCodes_fips": "MK",
+        "CountryCodes_iso2": "MK",
+        "CountryCodes_iso3": "MKD",
+        "CountryCodes_isoN": 807,
+        "CountryCodes_tld": "mk",
+        "Capital": "Skopje",
+        "nationality": "Macedonian",
+        "regex": "^\\+389\\d{6,12}$"
+    },
+    {
+        "name": "Mali",
+        "name_ar": "مالي",
+        "name_fr": "Mali",
+        "TelPref": "223",
+        "GeoPt": [
+            17,
+            -4
+        ],
+        "CountryCodes_fips": "ML",
+        "CountryCodes_iso2": "ML",
+        "CountryCodes_iso3": "MLI",
+        "CountryCodes_isoN": 466,
+        "CountryCodes_tld": "ml",
+        "Capital": "Bamako",
+        "nationality": "Malian",
+        "regex": "^\\+223\\d{6,12}$"
+    },
+    {
+        "name": "Myanmar",
+        "name_ar": "ميانمار",
+        "name_fr": "Myanmar",
+        "TelPref": "95",
+        "GeoPt": [
+            22,
+            98
+        ],
+        "CountryCodes_fips": "BM",
+        "CountryCodes_iso2": "MM",
+        "CountryCodes_iso3": "MMR",
+        "CountryCodes_isoN": 104,
+        "CountryCodes_tld": "mm",
+        "Capital": "Rangoon",
+        "nationality": "Burmese",
+        "regex": "^\\+95\\d{6,12}$"
+    },
+    {
+        "name": "Mongolia",
+        "name_ar": "منغوليا",
+        "name_fr": "La Mongolie",
+        "TelPref": "976",
+        "GeoPt": [
+            46,
+            105
+        ],
+        "CountryCodes_fips": "MG",
+        "CountryCodes_iso2": "MN",
+        "CountryCodes_iso3": "MNG",
+        "CountryCodes_isoN": 496,
+        "CountryCodes_tld": "mn",
+        "Capital": "Ulaanbaatar",
+        "nationality": "Mongolian",
+        "regex": "^\\+976\\d{6,12}$"
+    },
+    {
+        "name": "Macao",
+        "name_ar": "ماكاو",
+        "name_fr": "Macao",
+        "TelPref": "853",
+        "GeoPt": [
+            22.1,
+            113.33
+        ],
+        "CountryCodes_fips": "MC",
+        "CountryCodes_iso2": "MO",
+        "CountryCodes_iso3": "MAC",
+        "CountryCodes_isoN": 446,
+        "CountryCodes_tld": "mo",
+        "Capital": "",
+        "nationality": "Macanese",
+        "regex": "^\\+853\\d{6,12}$"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "name_ar": "جزر ماريانا الشمالية",
+        "name_fr": "Iles Mariannes du Nord",
+        "TelPref": "1 670",
+        "GeoPt": [
+            15.12,
+            145.45
+        ],
+        "CountryCodes_fips": "CQ",
+        "CountryCodes_iso2": "MP",
+        "CountryCodes_iso3": "MNP",
+        "CountryCodes_isoN": 580,
+        "CountryCodes_tld": "mp",
+        "Capital": "Saipan",
+        "nationality": "Northern Marianan",
+        "regex": "^\\+1670\\d{6,12}$"
+    },
+    {
+        "name": "Martinique",
+        "name_ar": "المارتينيك",
+        "name_fr": "Martinique",
+        "TelPref": "",
+        "GeoPt": [
+            0,
+            0
+        ],
+        "CountryCodes_fips": "MQ",
+        "CountryCodes_iso2": "MQ",
+        "CountryCodes_iso3": "",
+        "CountryCodes_isoN": "",
+        "CountryCodes_tld": "mq",
+        "Capital": "Martinique",
+        "nationality": "Martiniquais",
+        "regex": ""
+    },
+    {
+        "name": "Mauritania",
+        "name_ar": "موريتانيا",
+        "name_fr": "Mauritanie",
+        "TelPref": "222",
+        "GeoPt": [
+            20,
+            -12
+        ],
+        "CountryCodes_fips": "MR",
+        "CountryCodes_iso2": "MR",
+        "CountryCodes_iso3": "MRT",
+        "CountryCodes_isoN": 478,
+        "CountryCodes_tld": "mr",
+        "Capital": "Nouakchott",
+        "nationality": "Mauritanian",
+        "regex": "^\\+222\\d{6,12}$"
+    },
+    {
+        "name": "Montserrat",
+        "name_ar": "مونتسيرات",
+        "name_fr": "Monserrat",
+        "TelPref": "1 664",
+        "GeoPt": [
+            16.45,
+            -62.12
+        ],
+        "CountryCodes_fips": "MH",
+        "CountryCodes_iso2": "MS",
+        "CountryCodes_iso3": "MSR",
+        "CountryCodes_isoN": 500,
+        "CountryCodes_tld": "ms",
+        "Capital": "Plymouth",
+        "nationality": "Montserratian",
+        "regex": "^\\+1664\\d{6,12}$"
+    },
+    {
+        "name": "Malta",
+        "name_ar": "مالطا",
+        "name_fr": "Malte",
+        "TelPref": "356",
+        "GeoPt": [
+            35.5,
+            14.35
+        ],
+        "CountryCodes_fips": "MT",
+        "CountryCodes_iso2": "MT",
+        "CountryCodes_iso3": "MLT",
+        "CountryCodes_isoN": 470,
+        "CountryCodes_tld": "mt",
+        "Capital": "Valletta",
+        "nationality": "Maltese",
+        "regex": "^\\+356\\d{6,12}$"
+    },
+    {
+        "name": "Mauritius",
+        "name_ar": "موريشيوس",
+        "name_fr": "Ile Maurice",
+        "TelPref": "230",
+        "GeoPt": [
+            -20.17,
+            57.33
+        ],
+        "CountryCodes_fips": "MP",
+        "CountryCodes_iso2": "MU",
+        "CountryCodes_iso3": "MUS",
+        "CountryCodes_isoN": 480,
+        "CountryCodes_tld": "mu",
+        "Capital": "Port Louis",
+        "nationality": "Mauritian",
+        "regex": "^\\+230\\d{6,12}$"
+    },
+    {
+        "name": "Maldives",
+        "name_ar": "جزر المالديف",
+        "name_fr": "Maldives",
+        "TelPref": "960",
+        "GeoPt": [
+            3.15,
+            73
+        ],
+        "CountryCodes_fips": "MV",
+        "CountryCodes_iso2": "MV",
+        "CountryCodes_iso3": "MDV",
+        "CountryCodes_isoN": 462,
+        "CountryCodes_tld": "mv",
+        "Capital": "Male",
+        "nationality": "Maldivian",
+        "regex": "^\\+960\\d{6,12}$"
+    },
+    {
+        "name": "Malawi",
+        "name_ar": "مالاوي",
+        "name_fr": "Le Malawi",
+        "TelPref": "265",
+        "GeoPt": [
+            -13.3,
+            34
+        ],
+        "CountryCodes_fips": "MI",
+        "CountryCodes_iso2": "MW",
+        "CountryCodes_iso3": "MWI",
+        "CountryCodes_isoN": 454,
+        "CountryCodes_tld": "mw",
+        "Capital": "Lilongwe",
+        "nationality": "Malawian",
+        "regex": "^\\+265\\d{6,12}$"
+    },
+    {
+        "name": "Mexico",
+        "name_ar": "المكسيك",
+        "name_fr": "Le Mexique",
+        "TelPref": "52",
+        "GeoPt": [
+            23,
+            -102
+        ],
+        "CountryCodes_fips": "MX",
+        "CountryCodes_iso2": "MX",
+        "CountryCodes_iso3": "MEX",
+        "CountryCodes_isoN": 484,
+        "CountryCodes_tld": "mx",
+        "Capital": "Mexico City",
+        "nationality": "Mexican",
+        "regex": "^\\+52\\d{6,12}$"
+    },
+    {
+        "name": "Malaysia",
+        "name_ar": "ماليزيا",
+        "name_fr": "La Malaisie",
+        "TelPref": "60",
+        "GeoPt": [
+            2.3,
+            112.3
+        ],
+        "CountryCodes_fips": "MY",
+        "CountryCodes_iso2": "MY",
+        "CountryCodes_iso3": "MYS",
+        "CountryCodes_isoN": 458,
+        "CountryCodes_tld": "my",
+        "Capital": "Kuala Lumpur",
+        "nationality": "Malaysian",
+        "regex": "^\\+60\\d{6,12}$"
+    },
+    {
+        "name": "Mozambique",
+        "name_ar": "موزامبيق",
+        "name_fr": "Le Mozambique",
+        "TelPref": "258",
+        "GeoPt": [
+            -18.15,
+            35
+        ],
+        "CountryCodes_fips": "MZ",
+        "CountryCodes_iso2": "MZ",
+        "CountryCodes_iso3": "MOZ",
+        "CountryCodes_isoN": 508,
+        "CountryCodes_tld": "mz",
+        "Capital": "Maputo",
+        "nationality": "Mozambican",
+        "regex": "^\\+258\\d{6,12}$"
+    },
+    {
+        "name": "Namibia",
+        "name_ar": "ناميبيا",
+        "name_fr": "La Namibie",
+        "TelPref": "264",
+        "GeoPt": [
+            -22,
+            17
+        ],
+        "CountryCodes_fips": "WA",
+        "CountryCodes_iso2": "NA",
+        "CountryCodes_iso3": "NAM",
+        "CountryCodes_isoN": 516,
+        "CountryCodes_tld": "na",
+        "Capital": "Windhoek",
+        "nationality": "Namibian",
+        "regex": "^\\+264\\d{6,12}$"
+    },
+    {
+        "name": "New Caledonia",
+        "name_ar": "كاليدونيا الجديدة",
+        "name_fr": "Nouvelle-Calédonie",
+        "TelPref": "687",
+        "GeoPt": [
+            -21.3,
+            165.3
+        ],
+        "CountryCodes_fips": "NC",
+        "CountryCodes_iso2": "NC",
+        "CountryCodes_iso3": "NCL",
+        "CountryCodes_isoN": 540,
+        "CountryCodes_tld": "nc",
+        "Capital": "Noumea",
+        "nationality": "New Caledonian",
+        "regex": "^\\+687\\d{6}$"
+    },
+    {
+        "name": "Niger",
+        "name_ar": "النيجر",
+        "name_fr": "Niger",
+        "TelPref": "227",
+        "GeoPt": [
+            16,
+            8
+        ],
+        "CountryCodes_fips": "NG",
+        "CountryCodes_iso2": "NE",
+        "CountryCodes_iso3": "NER",
+        "CountryCodes_isoN": 562,
+        "CountryCodes_tld": "ne",
+        "Capital": "Niamey",
+        "nationality": "Nigerien",
+        "regex": "^\\+227\\d{8}$"
+    },
+    {
+        "name": "Norfolk Island",
+        "name_ar": "جزيرة نورفولك",
+        "name_fr": "Île de Norfolk",
+        "TelPref": "672",
+        "GeoPt": [
+            -29.02,
+            167.57
+        ],
+        "CountryCodes_fips": "NF",
+        "CountryCodes_iso2": "NF",
+        "CountryCodes_iso3": "NFK",
+        "CountryCodes_isoN": 574,
+        "CountryCodes_tld": "nf",
+        "Capital": "Kingston",
+        "nationality": "Norfolk Islander",
+        "regex": "^\\+672\\d{6}$"
+    },
+    {
+        "name": "Nigeria",
+        "name_ar": "نيجيريا",
+        "name_fr": "Le Nigeria",
+        "TelPref": "234",
+        "GeoPt": [
+            10,
+            8
+        ],
+        "CountryCodes_fips": "NI",
+        "CountryCodes_iso2": "NG",
+        "CountryCodes_iso3": "NGA",
+        "CountryCodes_isoN": 566,
+        "CountryCodes_tld": "ng",
+        "Capital": "Abuja",
+        "nationality": "Nigerian",
+        "regex": "^\\+234\\d{10}$"
+    },
+    {
+        "name": "Nicaragua",
+        "name_ar": "نيكاراغوا",
+        "name_fr": "Le Nicaragua",
+        "TelPref": "505",
+        "GeoPt": [
+            13,
+            -85
+        ],
+        "CountryCodes_fips": "NU",
+        "CountryCodes_iso2": "NI",
+        "CountryCodes_iso3": "NIC",
+        "CountryCodes_isoN": 558,
+        "CountryCodes_tld": "ni",
+        "Capital": "Managua",
+        "nationality": "Nicaraguan",
+        "regex": "^\\+505\\d{8}$"
+    },
+    {
+        "name": "Netherlands",
+        "name_ar": "هولندا",
+        "name_fr": "Pays-Bas",
+        "TelPref": "31",
+        "GeoPt": [
+            52.3,
+            5.45
+        ],
+        "CountryCodes_fips": "NL",
+        "CountryCodes_iso2": "NL",
+        "CountryCodes_iso3": "NLD",
+        "CountryCodes_isoN": 528,
+        "CountryCodes_tld": "nl",
+        "Capital": "Amsterdam",
+        "nationality": "Dutch",
+        "regex": "^\\+31\\d{9}$"
+    },
+    {
+        "name": "Norway",
+        "name_ar": "النرويج",
+        "name_fr": "La Norvège",
+        "TelPref": "47",
+        "GeoPt": [
+            62,
+            10
+        ],
+        "CountryCodes_fips": "NO",
+        "CountryCodes_iso2": "NO",
+        "CountryCodes_iso3": "NOR",
+        "CountryCodes_isoN": 578,
+        "CountryCodes_tld": "no",
+        "Capital": "Oslo",
+        "nationality": "Norwegian",
+        "regex": "^\\+47\\d{8}$"
+    },
+    {
+        "name": "Nepal",
+        "name_ar": "نيبال",
+        "name_fr": "Népal",
+        "TelPref": "977",
+        "GeoPt": [
+            28,
+            84
+        ],
+        "CountryCodes_fips": "NP",
+        "CountryCodes_iso2": "NP",
+        "CountryCodes_iso3": "NPL",
+        "CountryCodes_isoN": 524,
+        "CountryCodes_tld": "np",
+        "Capital": "Kathmandu",
+        "nationality": "Nepali",
+        "regex": "^\\+977\\d{8,10}$"
+    },
+    {
+        "name": "Nauru",
+        "name_ar": "ناورو",
+        "name_fr": "Nauru",
+        "TelPref": "674",
+        "GeoPt": [
+            -0.32,
+            166.55
+        ],
+        "CountryCodes_fips": "NR",
+        "CountryCodes_iso2": "NR",
+        "CountryCodes_iso3": "NRU",
+        "CountryCodes_isoN": 520,
+        "CountryCodes_tld": "nr",
+        "Capital": "",
+        "nationality": "Nauruan",
+        "regex": "^\\+674\\d{7}$"
+    },
+    {
+        "name": "Niue",
+        "name_ar": "نيوي",
+        "name_fr": "Nioué",
+        "TelPref": "683",
+        "GeoPt": [
+            -19.02,
+            -169.52
+        ],
+        "CountryCodes_fips": "NE",
+        "CountryCodes_iso2": "NU",
+        "CountryCodes_iso3": "NIU",
+        "CountryCodes_isoN": 570,
+        "CountryCodes_tld": "nu",
+        "Capital": "Alofi",
+        "nationality": "Niuean",
+        "regex": "^\\+683\\d{4}$"
+    },
+    {
+        "name": "New Zealand",
+        "name_ar": "نيوزيلندا",
+        "name_fr": "Nouvelle-Zélande",
+        "TelPref": "64",
+        "GeoPt": [
+            -41,
+            174
+        ],
+        "CountryCodes_fips": "NZ",
+        "CountryCodes_iso2": "NZ",
+        "CountryCodes_iso3": "NZL",
+        "CountryCodes_isoN": 554,
+        "CountryCodes_tld": "nz",
+        "Capital": "Wellington",
+        "nationality": "New Zealander",
+        "regex": "^\\+64\\d{8,10}$"
+    },
+    {
+        "name": "Oman",
+        "name_ar": "سلطنة عمان",
+        "name_fr": "Oman",
+        "TelPref": "968",
+        "GeoPt": [
+            21,
+            57
+        ],
+        "CountryCodes_fips": "MU",
+        "CountryCodes_iso2": "OM",
+        "CountryCodes_iso3": "OMN",
+        "CountryCodes_isoN": 512,
+        "CountryCodes_tld": "om",
+        "Capital": "Muscat",
+        "nationality": "Omani",
+        "regex": "^\\+968\\d{8}$"
+    },
+    {
+        "name": "Panama",
+        "name_ar": "بنما",
+        "name_fr": "Le Panama",
+        "TelPref": "507",
+        "GeoPt": [
+            9,
+            -80
+        ],
+        "CountryCodes_fips": "PM",
+        "CountryCodes_iso2": "PA",
+        "CountryCodes_iso3": "PAN",
+        "CountryCodes_isoN": 591,
+        "CountryCodes_tld": "pa",
+        "Capital": "Panama City",
+        "nationality": "Panamanian",
+        "regex": "^\\+507\\d{7,8}$"
+    },
+    {
+        "name": "Peru",
+        "name_ar": "بيرو",
+        "name_fr": "Pérou",
+        "TelPref": "51",
+        "GeoPt": [
+            -10,
+            -76
+        ],
+        "CountryCodes_fips": "PE",
+        "CountryCodes_iso2": "PE",
+        "CountryCodes_iso3": "PER",
+        "CountryCodes_isoN": 604,
+        "CountryCodes_tld": "pe",
+        "Capital": "Lima",
+        "nationality": "Peruvian",
+        "regex": "^\\+51\\d{9}$"
+    },
+    {
+        "name": "French Polynesia",
+        "name_ar": "بولينيزيا الفرنسية",
+        "name_fr": "Polynésie française",
+        "TelPref": "689",
+        "GeoPt": [
+            -15,
+            -140
+        ],
+        "CountryCodes_fips": "FP",
+        "CountryCodes_iso2": "PF",
+        "CountryCodes_iso3": "PYF",
+        "CountryCodes_isoN": 258,
+        "CountryCodes_tld": "pf",
+        "Capital": "Papeete",
+        "nationality": "French Polynesian",
+        "regex": "^\\+689\\d{6}$"
+    },
+    {
+        "name": "Papua New Guinea",
+        "name_ar": "بابوا غينيا الجديدة",
+        "name_fr": "Papouasie-Nouvelle-Guinée",
+        "TelPref": "675",
+        "GeoPt": [
+            -6,
+            147
+        ],
+        "CountryCodes_fips": "PP",
+        "CountryCodes_iso2": "PG",
+        "CountryCodes_iso3": "PNG",
+        "CountryCodes_isoN": 598,
+        "CountryCodes_tld": "pg",
+        "Capital": "Port Moresby",
+        "nationality": "Papua New Guinean",
+        "regex": "^\\+675\\d{7}$"
+    },
+    {
+        "name": "Philippines",
+        "name_ar": "الفلبين",
+        "name_fr": "Philippines",
+        "TelPref": "63",
+        "GeoPt": [
+            13,
+            122
+        ],
+        "CountryCodes_fips": "RP",
+        "CountryCodes_iso2": "PH",
+        "CountryCodes_iso3": "PHL",
+        "CountryCodes_isoN": 608,
+        "CountryCodes_tld": "ph",
+        "Capital": "Manila",
+        "nationality": "Filipino",
+        "regex": "^\\+63\\d{10}$"
+    },
+    {
+        "name": "Pakistan",
+        "name_ar": "باكستان",
+        "name_fr": "Le Pakistan",
+        "TelPref": "92",
+        "GeoPt": [
+            30,
+            70
+        ],
+        "CountryCodes_fips": "PK",
+        "CountryCodes_iso2": "PK",
+        "CountryCodes_iso3": "PAK",
+        "CountryCodes_isoN": 586,
+        "CountryCodes_tld": "pk",
+        "Capital": "Islamabad",
+        "nationality": "Pakistani",
+        "regex": "^\\+92\\d{10}$"
+    },
+    {
+        "name": "Poland",
+        "name_ar": "بولندا",
+        "name_fr": "La Pologne",
+        "TelPref": "48",
+        "GeoPt": [
+            52,
+            20
+        ],
+        "CountryCodes_fips": "PL",
+        "CountryCodes_iso2": "PL",
+        "CountryCodes_iso3": "POL",
+        "CountryCodes_isoN": 616,
+        "CountryCodes_tld": "pl",
+        "Capital": "Warsaw",
+        "nationality": "Polish",
+        "regex": "^\\+48\\d{9}$"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "name_ar": "سان بيار وميكلون",
+        "name_fr": "Saint-Pierre-et-Miquelon",
+        "TelPref": "508",
+        "GeoPt": [
+            46.5,
+            -56.2
+        ],
+        "CountryCodes_fips": "SB",
+        "CountryCodes_iso2": "PM",
+        "CountryCodes_iso3": "SPM",
+        "CountryCodes_isoN": 666,
+        "CountryCodes_tld": "pm",
+        "Capital": "Saint-Pierre",
+        "nationality": "Saint-Pierrais",
+        "regex": "^\\+508\\d{6}$"
+    },
+    {
+        "name": "Pitcairn",
+        "name_ar": "بيتكيرن",
+        "name_fr": "Pitcairn",
+        "TelPref": "870",
+        "GeoPt": [
+            -25.04,
+            -130.06
+        ],
+        "CountryCodes_fips": "PC",
+        "CountryCodes_iso2": "PN",
+        "CountryCodes_iso3": "PCN",
+        "CountryCodes_isoN": 612,
+        "CountryCodes_tld": "pn",
+        "Capital": "Adamstown",
+        "nationality": "Pitcairn Islander",
+        "regex": "^\\+870\\d{4,9}$"
+    },
+    {
+        "name": "Puerto Rico",
+        "name_ar": "بويرتو ريكو",
+        "name_fr": "Puerto Rico",
+        "TelPref": "1",
+        "GeoPt": [
+            18.15,
+            -66.3
+        ],
+        "CountryCodes_fips": "RQ",
+        "CountryCodes_iso2": "PR",
+        "CountryCodes_iso3": "PRI",
+        "CountryCodes_isoN": 630,
+        "CountryCodes_tld": "pr",
+        "Capital": "San Juan",
+        "nationality": "Puerto Rican",
+        "regex": "^\\+1(787|939)[2-9]\\d{6}$"
+    },
+    {
+        "name": "Palestin",
+        "name_ar": "فلسطين",
+        "name_fr": "Palestin",
+        "TelPref": "970",
+        "GeoPt": [
+            31.25,
+            34.2
+        ],
+        "CountryCodes_fips": "WE",
+        "CountryCodes_iso2": "PS",
+        "CountryCodes_iso3": "PSE",
+        "CountryCodes_isoN": 275,
+        "CountryCodes_tld": "ps",
+        "Capital": "",
+        "nationality": "Palestinian",
+        "regex": ""
+    },
+    {
+        "name": "Portugal",
+        "name_ar": "البرتغال",
+        "name_fr": "Le Portugal",
+        "TelPref": "351",
+        "GeoPt": [
+            39.3,
+            -8
+        ],
+        "CountryCodes_fips": "PO",
+        "CountryCodes_iso2": "PT",
+        "CountryCodes_iso3": "PRT",
+        "CountryCodes_isoN": 620,
+        "CountryCodes_tld": "pt",
+        "Capital": "Lisbon",
+        "nationality": "Portuguese",
+        "regex": "^\\+351(2\\d{8}|9[1236]\\d{7})$"
+    },
+    {
+        "name": "Palau",
+        "name_ar": "بالاو",
+        "name_fr": "Palau",
+        "TelPref": "680",
+        "GeoPt": [
+            7.3,
+            134.3
+        ],
+        "CountryCodes_fips": "PS",
+        "CountryCodes_iso2": "PW",
+        "CountryCodes_iso3": "PLW",
+        "CountryCodes_isoN": 585,
+        "CountryCodes_tld": "pw",
+        "Capital": "Melekeok",
+        "nationality": "Palauan",
+        "regex": "^\\+680\\d{7}$"
+    },
+    {
+        "name": "Paraguay",
+        "name_ar": "باراغواي",
+        "name_fr": "Le Paraguay",
+        "TelPref": "595",
+        "GeoPt": [
+            -23,
+            -58
+        ],
+        "CountryCodes_fips": "PA",
+        "CountryCodes_iso2": "PY",
+        "CountryCodes_iso3": "PRY",
+        "CountryCodes_isoN": 600,
+        "CountryCodes_tld": "py",
+        "Capital": "Asuncion",
+        "nationality": "Paraguayan",
+        "regex": "^\\+595(9\\d{8}|[2-6]\\d{7})$"
+    },
+    {
+        "name": "Qatar",
+        "name_ar": "قطر",
+        "name_fr": "Le Qatar",
+        "TelPref": "974",
+        "GeoPt": [
+            25.3,
+            51.15
+        ],
+        "CountryCodes_fips": "QA",
+        "CountryCodes_iso2": "QA",
+        "CountryCodes_iso3": "QAT",
+        "CountryCodes_isoN": 634,
+        "CountryCodes_tld": "qa",
+        "Capital": "Doha",
+        "nationality": "Qatari",
+        "regex": "^\\+974[3-7]\\d{7}$"
+    },
+    {
+        "name": "Réunion",
+        "name_ar": "ريونيون",
+        "name_fr": "La Réunion",
+        "TelPref": "",
+        "GeoPt": [
+            0,
+            0
+        ],
+        "CountryCodes_fips": "RE",
+        "CountryCodes_iso2": "RE",
+        "CountryCodes_iso3": "",
+        "CountryCodes_isoN": "",
+        "CountryCodes_tld": "re",
+        "Capital": "Réunion",
+        "nationality": "Réunionese",
+        "regex": "^\\+262(262|692|693)\\d{6}$"
+    },
+    {
+        "name": "Romania",
+        "name_ar": "رومانيا",
+        "name_fr": "La Roumanie",
+        "TelPref": "40",
+        "GeoPt": [
+            46,
+            25
+        ],
+        "CountryCodes_fips": "RO",
+        "CountryCodes_iso2": "RO",
+        "CountryCodes_iso3": "ROU",
+        "CountryCodes_isoN": 642,
+        "CountryCodes_tld": "ro",
+        "Capital": "Bucharest",
+        "nationality": "Romanian",
+        "regex": "^\\+40(7\\d{8}|2\\d{8}|3\\d{8})$"
+    },
+    {
+        "name": "Serbia",
+        "name_ar": "صربيا",
+        "name_fr": "La Serbie",
+        "TelPref": "381",
+        "GeoPt": [
+            44,
+            21
+        ],
+        "CountryCodes_fips": "RB",
+        "CountryCodes_iso2": "RS",
+        "CountryCodes_iso3": "SRB",
+        "CountryCodes_isoN": 688,
+        "CountryCodes_tld": "rs",
+        "Capital": "Belgrade",
+        "nationality": "Serbian",
+        "regex": "^\\+381(6\\d{7,8}|1\\d{7})$"
+    },
+    {
+        "name": "Russia",
+        "name_ar": "روسيا",
+        "name_fr": "La Russie",
+        "TelPref": "7",
+        "GeoPt": [
+            60,
+            100
+        ],
+        "CountryCodes_fips": "RS",
+        "CountryCodes_iso2": "RU",
+        "CountryCodes_iso3": "RUS",
+        "CountryCodes_isoN": 643,
+        "CountryCodes_tld": "ru",
+        "Capital": "Moscow",
+        "nationality": "Russian",
+        "regex": "^\\+7(9\\d{9}|[3-6]\\d{9})$"
+    },
+    {
+        "name": "Rwanda",
+        "name_ar": "رواندا",
+        "name_fr": "Rwanda",
+        "TelPref": "250",
+        "GeoPt": [
+            -2,
+            30
+        ],
+        "CountryCodes_fips": "RW",
+        "CountryCodes_iso2": "RW",
+        "CountryCodes_iso3": "RWA",
+        "CountryCodes_isoN": 646,
+        "CountryCodes_tld": "rw",
+        "Capital": "Kigali",
+        "nationality": "Rwandan",
+        "regex": "^\\+250(7[2-8]\\d{7}|[2-6]\\d{7})$"
+    },
+    {
+        "name": "Saudi Arabia",
+        "name_ar": "العربية السعودية",
+        "name_fr": "Arabie Saoudite",
+        "TelPref": "966",
+        "GeoPt": [
+            25,
+            45
+        ],
+        "CountryCodes_fips": "SA",
+        "CountryCodes_iso2": "SA",
+        "CountryCodes_iso3": "SAU",
+        "CountryCodes_isoN": 682,
+        "CountryCodes_tld": "sa",
+        "Capital": "Riyadh",
+        "nationality": "Saudi",
+        "regex": "^\\+966(5\\d{8}|1\\d{8}|[2-9]\\d{7})$"
+    },
+    {
+        "name": "Solomon Islands",
+        "name_ar": "جزر سليمان",
+        "name_fr": "Iles Salomon",
+        "TelPref": "677",
+        "GeoPt": [
+            -8,
+            159
+        ],
+        "CountryCodes_fips": "BP",
+        "CountryCodes_iso2": "SB",
+        "CountryCodes_iso3": "SLB",
+        "CountryCodes_isoN": 90,
+        "CountryCodes_tld": "sb",
+        "Capital": "Honiara",
+        "nationality": "Solomon Islander",
+        "regex": "^\\+677\\d{5,7}$"
+    },
+    {
+        "name": "Seychelles",
+        "name_ar": "سيشيل",
+        "name_fr": "Les Seychelles",
+        "TelPref": "248",
+        "GeoPt": [
+            -4.35,
+            55.4
+        ],
+        "CountryCodes_fips": "SE",
+        "CountryCodes_iso2": "SC",
+        "CountryCodes_iso3": "SYC",
+        "CountryCodes_isoN": 690,
+        "CountryCodes_tld": "sc",
+        "Capital": "Victoria",
+        "nationality": "Seychellois",
+        "regex": "^\\+248\\d{6,7}$"
+    },
+    {
+        "name": "Sudan",
+        "name_ar": "سودان",
+        "name_fr": "Soudan",
+        "TelPref": "249",
+        "GeoPt": [
+            15,
+            30
+        ],
+        "CountryCodes_fips": "SU",
+        "CountryCodes_iso2": "SD",
+        "CountryCodes_iso3": "SDN",
+        "CountryCodes_isoN": 736,
+        "CountryCodes_tld": "sd",
+        "Capital": "Khartoum",
+        "nationality": "Sudanese",
+        "regex": "^\\+249(1\\d{8}|9\\d{8})$"
+    },
+    {
+        "name": "Sweden",
+        "name_ar": "السويد",
+        "name_fr": "La Suède",
+        "TelPref": "46",
+        "GeoPt": [
+            62,
+            15
+        ],
+        "CountryCodes_fips": "SW",
+        "CountryCodes_iso2": "SE",
+        "CountryCodes_iso3": "SWE",
+        "CountryCodes_isoN": 752,
+        "CountryCodes_tld": "se",
+        "Capital": "Stockholm",
+        "nationality": "Swedish",
+        "regex": "^\\+46(7[0236]\\d{7}|[1-9]\\d{6,8})$"
+    },
+    {
+        "name": "Singapore",
+        "name_ar": "سنغافورة",
+        "name_fr": "Singapour",
+        "TelPref": "65",
+        "GeoPt": [
+            1.22,
+            103.48
+        ],
+        "CountryCodes_fips": "SN",
+        "CountryCodes_iso2": "SG",
+        "CountryCodes_iso3": "SGP",
+        "CountryCodes_isoN": 702,
+        "CountryCodes_tld": "sg",
+        "Capital": "Singapore",
+        "nationality": "Singaporean",
+        "regex": "^\\+65[689]\\d{7}$"
+    },
+    {
+        "name": "Saint Helena Ascension and Tristan da Cunha",
+        "name_ar": "سانت هيلانة أسنسيون وتريستان دا كونيا",
+        "name_fr": "Saint Helena de l'Ascension et Tristan da Cunha",
+        "TelPref": "290",
+        "GeoPt": [
+            -15.57,
+            -5.42
+        ],
+        "CountryCodes_fips": "SH",
+        "CountryCodes_iso2": "SH",
+        "CountryCodes_iso3": "SHN",
+        "CountryCodes_isoN": 654,
+        "CountryCodes_tld": "sh",
+        "Capital": "Jamestown",
+        "nationality": "Saint Helenian",
+        "regex": "^\\+290\\d{4,5}$"
+    },
+    {
+        "name": "Slovenia",
+        "name_ar": "سلوفينيا",
+        "name_fr": "La Slovénie",
+        "TelPref": "386",
+        "GeoPt": [
+            46.07,
+            14.49
+        ],
+        "CountryCodes_fips": "SI",
+        "CountryCodes_iso2": "SI",
+        "CountryCodes_iso3": "SVN",
+        "CountryCodes_isoN": 705,
+        "CountryCodes_tld": "si",
+        "Capital": "Ljubljana",
+        "nationality": "Slovenian",
+        "regex": "^\\+386[1-7]\\d{6,7}$"
+    },
+    {
+        "name": "Svalbard",
+        "name_ar": "سفالبارد",
+        "name_fr": "Svalbard",
+        "TelPref": "",
+        "GeoPt": [
+            78,
+            20
+        ],
+        "CountryCodes_fips": "SV",
+        "CountryCodes_iso2": "SJ",
+        "CountryCodes_iso3": "SJM",
+        "CountryCodes_isoN": 744,
+        "CountryCodes_tld": "sj",
+        "Capital": "Longyearbyen",
+        "nationality": "Svalbardian",
+        "regex": ""
+    },
+    {
+        "name": "Slovakia",
+        "name_ar": "سلوفاكيا",
+        "name_fr": "La Slovaquie",
+        "TelPref": "421",
+        "GeoPt": [
+            48.4,
+            19.3
+        ],
+        "CountryCodes_fips": "LO",
+        "CountryCodes_iso2": "SK",
+        "CountryCodes_iso3": "SVK",
+        "CountryCodes_isoN": 703,
+        "CountryCodes_tld": "sk",
+        "Capital": "Bratislava",
+        "nationality": "Slovak",
+        "regex": "^\\+421[2-9]\\d{8}$"
+    },
+    {
+        "name": "Sierra Leone",
+        "name_ar": "سيراليون",
+        "name_fr": "Sierra Leone",
+        "TelPref": "232",
+        "GeoPt": [
+            8.3,
+            -11.3
+        ],
+        "CountryCodes_fips": "SL",
+        "CountryCodes_iso2": "SL",
+        "CountryCodes_iso3": "SLE",
+        "CountryCodes_isoN": 694,
+        "CountryCodes_tld": "sl",
+        "Capital": "Freetown",
+        "nationality": "Sierra Leonean",
+        "regex": "^\\+232[2-9]\\d{7}$"
+    },
+    {
+        "name": "San Marino",
+        "name_ar": "سان مارينو",
+        "name_fr": "San Marino",
+        "TelPref": "378",
+        "GeoPt": [
+            43.46,
+            12.25
+        ],
+        "CountryCodes_fips": "SM",
+        "CountryCodes_iso2": "SM",
+        "CountryCodes_iso3": "SMR",
+        "CountryCodes_isoN": 674,
+        "CountryCodes_tld": "sm",
+        "Capital": "San Marino",
+        "nationality": "Sammarinese",
+        "regex": "^\\+378\\d{6,10}$"
+    },
+    {
+        "name": "Senegal",
+        "name_ar": "السنغال",
+        "name_fr": "Sénégal",
+        "TelPref": "221",
+        "GeoPt": [
+            14,
+            -14
+        ],
+        "CountryCodes_fips": "SG",
+        "CountryCodes_iso2": "SN",
+        "CountryCodes_iso3": "SEN",
+        "CountryCodes_isoN": 686,
+        "CountryCodes_tld": "sn",
+        "Capital": "Dakar",
+        "nationality": "Senegalese",
+        "regex": "^\\+221[7-9]\\d{7}$"
+    },
+    {
+        "name": "Somalia",
+        "name_ar": "الصومال",
+        "name_fr": "Somalie",
+        "TelPref": "252",
+        "GeoPt": [
+            10,
+            49
+        ],
+        "CountryCodes_fips": "SO",
+        "CountryCodes_iso2": "SO",
+        "CountryCodes_iso3": "SOM",
+        "CountryCodes_isoN": 706,
+        "CountryCodes_tld": "so",
+        "Capital": "Mogadishu",
+        "nationality": "Somali",
+        "regex": "^\\+252[1-9]\\d{7}$"
+    },
+    {
+        "name": "Suriname",
+        "name_ar": "سورينام",
+        "name_fr": "Surinam",
+        "TelPref": "597",
+        "GeoPt": [
+            4,
+            -56
+        ],
+        "CountryCodes_fips": "NS",
+        "CountryCodes_iso2": "SR",
+        "CountryCodes_iso3": "SUR",
+        "CountryCodes_isoN": 740,
+        "CountryCodes_tld": "sr",
+        "Capital": "Paramaribo",
+        "nationality": "Surinamese",
+        "regex": "^\\+597\\d{6,7}$"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "name_ar": "ساو تومي وبرينسيبي",
+        "name_fr": "Sao Tomé et Principe",
+        "TelPref": "239",
+        "GeoPt": [
+            1,
+            7
+        ],
+        "CountryCodes_fips": "TP",
+        "CountryCodes_iso2": "ST",
+        "CountryCodes_iso3": "STP",
+        "CountryCodes_isoN": 678,
+        "CountryCodes_tld": "st",
+        "Capital": "Sao Tome",
+        "nationality": "São Toméan",
+        "regex": "^\\+239\\d{7}$"
+    },
+    {
+        "name": "El Salvador",
+        "name_ar": "السلفادور",
+        "name_fr": "El Salvador",
+        "TelPref": "503",
+        "GeoPt": [
+            13.5,
+            -88.55
+        ],
+        "CountryCodes_fips": "ES",
+        "CountryCodes_iso2": "SV",
+        "CountryCodes_iso3": "SLV",
+        "CountryCodes_isoN": 222,
+        "CountryCodes_tld": "sv",
+        "Capital": "San Salvador",
+        "nationality": "Salvadoran",
+        "regex": "^\\+503[2-7]\\d{7}$"
+    },
+    {
+        "name": "Sint Maarten",
+        "name_ar": "سينت مارتن",
+        "name_fr": "Sint Maarten",
+        "TelPref": "",
+        "GeoPt": [
+            0,
+            0
+        ],
+        "CountryCodes_fips": "SX",
+        "CountryCodes_iso2": "SX",
+        "CountryCodes_iso3": "",
+        "CountryCodes_isoN": "",
+        "CountryCodes_tld": "sx",
+        "Capital": "Sint Maarten",
+        "nationality": "Sint Maartener",
+        "regex": ""
+    },
+    {
+        "name": "Syria",
+        "name_ar": "سوريا",
+        "name_fr": "La Syrie",
+        "TelPref": "963",
+        "GeoPt": [
+            35,
+            38
+        ],
+        "CountryCodes_fips": "SY",
+        "CountryCodes_iso2": "SY",
+        "CountryCodes_iso3": "SYR",
+        "CountryCodes_isoN": 760,
+        "CountryCodes_tld": "sy",
+        "Capital": "Damascus",
+        "nationality": "Syrian",
+        "regex": "^\\+963[1-9]\\d{7}$"
+    },
+    {
+        "name": "Swaziland",
+        "name_ar": "سوازيلاند",
+        "name_fr": "Le Swaziland",
+        "TelPref": "268",
+        "GeoPt": [
+            -26.3,
+            31.3
+        ],
+        "CountryCodes_fips": "WZ",
+        "CountryCodes_iso2": "SZ",
+        "CountryCodes_iso3": "SWZ",
+        "CountryCodes_isoN": 748,
+        "CountryCodes_tld": "sz",
+        "Capital": "Mbabane",
+        "nationality": "Swazi",
+        "regex": "^\\+268[2-7]\\d{6}$"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "name_ar": "جزر تركس وكايكوس",
+        "name_fr": "Iles Turques et Caïques",
+        "TelPref": "1 649",
+        "GeoPt": [
+            21.45,
+            -71.35
+        ],
+        "CountryCodes_fips": "TK",
+        "CountryCodes_iso2": "TC",
+        "CountryCodes_iso3": "TCA",
+        "CountryCodes_isoN": 796,
+        "CountryCodes_tld": "tc",
+        "Capital": "Grand Turk",
+        "nationality": "Turks and Caicos Islander",
+        "regex": "^\\+1649[2-9]\\d{6}$"
+    },
+    {
+        "name": "Chad",
+        "name_ar": "تشاد",
+        "name_fr": "Tchad",
+        "TelPref": "235",
+        "GeoPt": [
+            15,
+            19
+        ],
+        "CountryCodes_fips": "CD",
+        "CountryCodes_iso2": "TD",
+        "CountryCodes_iso3": "TCD",
+        "CountryCodes_isoN": 148,
+        "CountryCodes_tld": "td",
+        "Capital": "N'Djamena",
+        "nationality": "Chadian",
+        "regex": "^\\+235[2-9]\\d{7}$"
+    },
+    {
+        "name": "French Southern Territories",
+        "name_ar": "الأقاليم الجنوبية الفرنسية",
+        "name_fr": "Terres australes françaises",
+        "TelPref": "569",
+        "GeoPt": [
+            -37.5,
+            77.32
+        ],
+        "CountryCodes_fips": "FS",
+        "CountryCodes_iso2": "TF",
+        "CountryCodes_iso3": "ATF",
+        "CountryCodes_isoN": 260,
+        "CountryCodes_tld": "tf",
+        "Capital": "",
+        "nationality": "French Southern Territories citizen",
+        "regex": "^\\+569\\d{7,8}$"
+    },
+    {
+        "name": "Togo",
+        "name_ar": "توغو",
+        "name_fr": "Togo",
+        "TelPref": "228",
+        "GeoPt": [
+            8,
+            1.1
+        ],
+        "CountryCodes_fips": "TO",
+        "CountryCodes_iso2": "TG",
+        "CountryCodes_iso3": "TGO",
+        "CountryCodes_isoN": 768,
+        "CountryCodes_tld": "tg",
+        "Capital": "Lome",
+        "nationality": "Togolese",
+        "regex": "^\\+228[2-9]\\d{7}$"
+    },
+    {
+        "name": "Thailand",
+        "name_ar": "تايلاند",
+        "name_fr": "La Thaïlande",
+        "TelPref": "66",
+        "GeoPt": [
+            15,
+            100
+        ],
+        "CountryCodes_fips": "TH",
+        "CountryCodes_iso2": "TH",
+        "CountryCodes_iso3": "THA",
+        "CountryCodes_isoN": 764,
+        "CountryCodes_tld": "th",
+        "Capital": "Bangkok",
+        "nationality": "Thai",
+        "regex": "^\\+66[2-9]\\d{7,8}$"
+    },
+    {
+        "name": "Tajikistan",
+        "name_ar": "طاجيكستان",
+        "name_fr": "Le Tadjikistan",
+        "TelPref": "992",
+        "GeoPt": [
+            39,
+            71
+        ],
+        "CountryCodes_fips": "TI",
+        "CountryCodes_iso2": "TJ",
+        "CountryCodes_iso3": "TJK",
+        "CountryCodes_isoN": 762,
+        "CountryCodes_tld": "tj",
+        "Capital": "Dushanbe",
+        "nationality": "Tajikistani",
+        "regex": "^\\+992[3-9]\\d{7,8}$"
+    },
+    {
+        "name": "Tokelau",
+        "name_ar": "توكيلاو",
+        "name_fr": "Tokélaou",
+        "TelPref": "690",
+        "GeoPt": [
+            -9,
+            -172
+        ],
+        "CountryCodes_fips": "TL",
+        "CountryCodes_iso2": "TK",
+        "CountryCodes_iso3": "TKL",
+        "CountryCodes_isoN": 772,
+        "CountryCodes_tld": "tk",
+        "Capital": "",
+        "nationality": "Tokelauan",
+        "regex": "^\\+690\\d{4}$"
+    },
+    {
+        "name": "Timor-Leste",
+        "name_ar": "تيمور الشرقية",
+        "name_fr": "Timor-Leste",
+        "TelPref": "670",
+        "GeoPt": [
+            -8.5,
+            125.55
+        ],
+        "CountryCodes_fips": "TT",
+        "CountryCodes_iso2": "TL",
+        "CountryCodes_iso3": "TLS",
+        "CountryCodes_isoN": 626,
+        "CountryCodes_tld": "tl",
+        "Capital": "Dili",
+        "nationality": "Timorese",
+        "regex": "^\\+670[2-9]\\d{6}$"
+    },
+    {
+        "name": "Turkmenistan",
+        "name_ar": "تركمانستان",
+        "name_fr": "Le Turkménistan",
+        "TelPref": "993",
+        "GeoPt": [
+            40,
+            60
+        ],
+        "CountryCodes_fips": "TX",
+        "CountryCodes_iso2": "TM",
+        "CountryCodes_iso3": "TKM",
+        "CountryCodes_isoN": 795,
+        "CountryCodes_tld": "tm",
+        "Capital": "Ashgabat",
+        "nationality": "Turkmen",
+        "regex": "^\\+993[1-6]\\d{7}$"
+    },
+    {
+        "name": "Tunisia",
+        "name_ar": "تونس",
+        "name_fr": "Tunisie",
+        "TelPref": "216",
+        "GeoPt": [
+            34,
+            9
+        ],
+        "CountryCodes_fips": "TS",
+        "CountryCodes_iso2": "TN",
+        "CountryCodes_iso3": "TUN",
+        "CountryCodes_isoN": 788,
+        "CountryCodes_tld": "tn",
+        "Capital": "Tunis",
+        "nationality": "Tunisian",
+        "regex": "^\\+216[2-9]\\d{7}$"
+    },
+    {
+        "name": "Tonga",
+        "name_ar": "تونغا",
+        "name_fr": "Tonga",
+        "TelPref": "676",
+        "GeoPt": [
+            -20,
+            -175
+        ],
+        "CountryCodes_fips": "TN",
+        "CountryCodes_iso2": "TO",
+        "CountryCodes_iso3": "TON",
+        "CountryCodes_isoN": 776,
+        "CountryCodes_tld": "to",
+        "Capital": "Nuku'alofa",
+        "nationality": "Tongan",
+        "regex": "^\\+676\\d{5,6}$"
+    },
+    {
+        "name": "Turkey",
+        "name_ar": "تركيا",
+        "name_fr": "La Turquie",
+        "TelPref": "90",
+        "GeoPt": [
+            39,
+            35
+        ],
+        "CountryCodes_fips": "TU",
+        "CountryCodes_iso2": "TR",
+        "CountryCodes_iso3": "TUR",
+        "CountryCodes_isoN": 792,
+        "CountryCodes_tld": "tr",
+        "Capital": "Ankara",
+        "nationality": "Turkish",
+        "regex": "^\\+90(5\\d{9}|[2-4]\\d{8})$"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "name_ar": "ترينيداد وتوباغو",
+        "name_fr": "Trinidad et Tobago",
+        "TelPref": "1 868",
+        "GeoPt": [
+            11,
+            -61
+        ],
+        "CountryCodes_fips": "TD",
+        "CountryCodes_iso2": "TT",
+        "CountryCodes_iso3": "TTO",
+        "CountryCodes_isoN": 780,
+        "CountryCodes_tld": "tt",
+        "Capital": "Port-of-Spain",
+        "nationality": "Trinidadian and Tobagonian",
+        "regex": "^\\+1868[2-9]\\d{6}$"
+    },
+    {
+        "name": "Tuvalu",
+        "name_ar": "توفالو",
+        "name_fr": "Tuvalu,",
+        "TelPref": "688",
+        "GeoPt": [
+            -8,
+            178
+        ],
+        "CountryCodes_fips": "TV",
+        "CountryCodes_iso2": "TV",
+        "CountryCodes_iso3": "TUV",
+        "CountryCodes_isoN": 798,
+        "CountryCodes_tld": "tv",
+        "Capital": "Funafuti",
+        "nationality": "Tuvaluan",
+        "regex": "^\\+688\\d{5,6}$"
+    },
+    {
+        "name": "Taiwan",
+        "name_ar": "تايوان",
+        "name_fr": "Taiwan",
+        "TelPref": "886",
+        "GeoPt": [
+            23.3,
+            121
+        ],
+        "CountryCodes_fips": "TW",
+        "CountryCodes_iso2": "TW",
+        "CountryCodes_iso3": "TWN",
+        "CountryCodes_isoN": 158,
+        "CountryCodes_tld": "tw",
+        "Capital": "Taipei",
+        "nationality": "Taiwanese",
+        "regex": "^\\+8869\\d{8}$"
+    },
+    {
+        "name": "Tanzania",
+        "name_ar": "تنزانيا",
+        "name_fr": "Tanzanie",
+        "TelPref": "255",
+        "GeoPt": [
+            -6,
+            35
+        ],
+        "CountryCodes_fips": "TZ",
+        "CountryCodes_iso2": "TZ",
+        "CountryCodes_iso3": "TZA",
+        "CountryCodes_isoN": 834,
+        "CountryCodes_tld": "tz",
+        "Capital": "Dar es Salaam",
+        "nationality": "Tanzanian",
+        "regex": "^\\+255[67]\\d{8}$"
+    },
+    {
+        "name": "Ukraine",
+        "name_ar": "أوكرانيا",
+        "name_fr": "L'Ukraine",
+        "TelPref": "380",
+        "GeoPt": [
+            49,
+            32
+        ],
+        "CountryCodes_fips": "UP",
+        "CountryCodes_iso2": "UA",
+        "CountryCodes_iso3": "UKR",
+        "CountryCodes_isoN": 804,
+        "CountryCodes_tld": "ua",
+        "Capital": "",
+        "nationality": "Ukrainian",
+        "regex": "^\\+380[3-9]\\d{8}$"
+    },
+    {
+        "name": "Uganda",
+        "name_ar": "أوغندا",
+        "name_fr": "L'Ouganda",
+        "TelPref": "256",
+        "GeoPt": [
+            1,
+            32
+        ],
+        "CountryCodes_fips": "UG",
+        "CountryCodes_iso2": "UG",
+        "CountryCodes_iso3": "UGA",
+        "CountryCodes_isoN": 800,
+        "CountryCodes_tld": "ug",
+        "Capital": "Kampala",
+        "nationality": "Ugandan",
+        "regex": "^\\+256[2347]\\d{8}$"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "name_ar": "الولايات المتحدة البعيدة الصغيرة جزر",
+        "name_fr": "États-Unis Îles mineures éloignées",
+        "TelPref": "",
+        "GeoPt": [
+            0,
+            0
+        ],
+        "CountryCodes_fips": "UM",
+        "CountryCodes_iso2": "UM",
+        "CountryCodes_iso3": "",
+        "CountryCodes_isoN": "",
+        "CountryCodes_tld": "um",
+        "Capital": "United States Minor Outlying Islands",
+        "nationality": "American",
+        "regex": ""
+    },
+    {
+        "name": "United States",
+        "name_ar": "الولايات المتحدة",
+        "name_fr": "Etats-Unis",
+        "TelPref": "1",
+        "GeoPt": [
+            38,
+            -97
+        ],
+        "CountryCodes_fips": "US",
+        "CountryCodes_iso2": "US",
+        "CountryCodes_iso3": "USA",
+        "CountryCodes_isoN": 840,
+        "CountryCodes_tld": "us",
+        "Capital": "Washington, DC",
+        "nationality": "American",
+        "regex": "^\\+1[2-9]\\d{2}[2-9]\\d{6}$"
+    },
+    {
+        "name": "Uruguay",
+        "name_ar": "أوروغواي",
+        "name_fr": "L'Uruguay",
+        "TelPref": "598",
+        "GeoPt": [
+            -33,
+            -56
+        ],
+        "CountryCodes_fips": "UY",
+        "CountryCodes_iso2": "UY",
+        "CountryCodes_iso3": "URY",
+        "CountryCodes_isoN": 858,
+        "CountryCodes_tld": "uy",
+        "Capital": "Montevideo",
+        "nationality": "Uruguayan",
+        "regex": "^\\+5989\\d{7}$"
+    },
+    {
+        "name": "Uzbekistan",
+        "name_ar": "أوزبكستان",
+        "name_fr": "L'Ouzbékistan",
+        "TelPref": "998",
+        "GeoPt": [
+            41,
+            64
+        ],
+        "CountryCodes_fips": "UZ",
+        "CountryCodes_iso2": "UZ",
+        "CountryCodes_iso3": "UZB",
+        "CountryCodes_isoN": 860,
+        "CountryCodes_tld": "uz",
+        "Capital": "Tashkent",
+        "nationality": "Uzbek",
+        "regex": "^\\+998[1-9]\\d{8}$"
+    },
+    {
+        "name": "Holy See",
+        "name_ar": "الكرسي الرسولي",
+        "name_fr": "Saint-Siège",
+        "TelPref": "39",
+        "GeoPt": [
+            41.54,
+            12.27
+        ],
+        "CountryCodes_fips": "VT",
+        "CountryCodes_iso2": "VA",
+        "CountryCodes_iso3": "VAT",
+        "CountryCodes_isoN": 336,
+        "CountryCodes_tld": "va",
+        "Capital": "Vatican City",
+        "nationality": "Vatican citizen",
+        "regex": "^\\+39[06]\\d{5,10}$"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "name_ar": "سانت فنسنت وغرينادين",
+        "name_fr": "Saint-Vincent et les Grenadines",
+        "TelPref": "1 784",
+        "GeoPt": [
+            13.15,
+            -61.12
+        ],
+        "CountryCodes_fips": "VC",
+        "CountryCodes_iso2": "VC",
+        "CountryCodes_iso3": "VCT",
+        "CountryCodes_isoN": 670,
+        "CountryCodes_tld": "vc",
+        "Capital": "Kingstown",
+        "nationality": "Saint Vincentian",
+        "regex": "^\\+1784[2-9]\\d{6}$"
+    },
+    {
+        "name": "Venezuela",
+        "name_ar": "فنزويلا",
+        "name_fr": "Le Venezuela",
+        "TelPref": "58",
+        "GeoPt": [
+            8,
+            -66
+        ],
+        "CountryCodes_fips": "VE",
+        "CountryCodes_iso2": "VE",
+        "CountryCodes_iso3": "VEN",
+        "CountryCodes_isoN": 862,
+        "CountryCodes_tld": "ve",
+        "Capital": "Caracas",
+        "nationality": "Venezuelan",
+        "regex": "^\\+58(2\\d{9}|4[1246]\\d{8})$"
+    },
+    {
+        "name": "British Virgin Islands",
+        "name_ar": "جزر فيرجن البريطانية",
+        "name_fr": "Iles Vierges Britanniques",
+        "TelPref": "1 284",
+        "GeoPt": [
+            18.3,
+            -64.3
+        ],
+        "CountryCodes_fips": "VI",
+        "CountryCodes_iso2": "VG",
+        "CountryCodes_iso3": "VGB",
+        "CountryCodes_isoN": 92,
+        "CountryCodes_tld": "vg",
+        "Capital": "Road Town",
+        "nationality": "British Virgin Islander",
+        "regex": "^\\+1284[2-9]\\d{6}$"
+    },
+    {
+        "name": "Virgin Islands",
+        "name_ar": "جزر العذراء",
+        "name_fr": "Iles Vierges",
+        "TelPref": "1 340",
+        "GeoPt": [
+            18.2,
+            -64.5
+        ],
+        "CountryCodes_fips": "VQ",
+        "CountryCodes_iso2": "VI",
+        "CountryCodes_iso3": "VIR",
+        "CountryCodes_isoN": 850,
+        "CountryCodes_tld": "vi",
+        "Capital": "Charlotte Amalie",
+        "nationality": "Virgin Islander",
+        "regex": "^\\+1340[2-9]\\d{6}$"
+    },
+    {
+        "name": "Vietnam",
+        "name_ar": "فيتنام",
+        "name_fr": "Vietnam",
+        "TelPref": "84",
+        "GeoPt": [
+            16.1,
+            107.5
+        ],
+        "CountryCodes_fips": "VM",
+        "CountryCodes_iso2": "VN",
+        "CountryCodes_iso3": "VNM",
+        "CountryCodes_isoN": 704,
+        "CountryCodes_tld": "vn",
+        "Capital": "Hanoi",
+        "nationality": "Vietnamese",
+        "regex": "^\\+84(3\\d{8}|9\\d{8}|1[2689]\\d{7})$"
+    },
+    {
+        "name": "Vanuatu",
+        "name_ar": "فانواتو",
+        "name_fr": "Vanuatu",
+        "TelPref": "678",
+        "GeoPt": [
+            -16,
+            167
+        ],
+        "CountryCodes_fips": "NH",
+        "CountryCodes_iso2": "VU",
+        "CountryCodes_iso3": "VUT",
+        "CountryCodes_isoN": 548,
+        "CountryCodes_tld": "vu",
+        "Capital": "Port-Vila",
+        "nationality": "Ni-Vanuatu",
+        "regex": "^\\+678\\d{5,7}$"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "name_ar": "واليس وفوتونا",
+        "name_fr": "Wallis et Futuna",
+        "TelPref": "681",
+        "GeoPt": [
+            -13.18,
+            -176.12
+        ],
+        "CountryCodes_fips": "WF",
+        "CountryCodes_iso2": "WF",
+        "CountryCodes_iso3": "WLF",
+        "CountryCodes_isoN": 876,
+        "CountryCodes_tld": "wf",
+        "Capital": "Mata-Utu",
+        "nationality": "Wallisian/Futunan",
+        "regex": "^\\+681\\d{6}$"
+    },
+    {
+        "name": "Samoa",
+        "name_ar": "ساموا",
+        "name_fr": "Samoa",
+        "TelPref": "685",
+        "GeoPt": [
+            -13.35,
+            -172.2
+        ],
+        "CountryCodes_fips": "WS",
+        "CountryCodes_iso2": "WS",
+        "CountryCodes_iso3": "WSM",
+        "CountryCodes_isoN": 882,
+        "CountryCodes_tld": "ws",
+        "Capital": "Apia",
+        "nationality": "Samoan",
+        "regex": "^\\+685\\d{5,7}$"
+    },
+    {
+        "name": "Yemen",
+        "name_ar": "يمني",
+        "name_fr": "Yémen",
+        "TelPref": "967",
+        "GeoPt": [
+            15,
+            48
+        ],
+        "CountryCodes_fips": "YM",
+        "CountryCodes_iso2": "YE",
+        "CountryCodes_iso3": "YEM",
+        "CountryCodes_isoN": 887,
+        "CountryCodes_tld": "ye",
+        "Capital": "Sanaa",
+        "nationality": "Yemeni",
+        "regex": "^\\+967[1-7]\\d{7,8}$"
+    },
+    {
+        "name": "Mayotte",
+        "name_ar": "جزيرة مايوت",
+        "name_fr": "Mayotte",
+        "TelPref": "262",
+        "GeoPt": [
+            -12.5,
+            45.1
+        ],
+        "CountryCodes_fips": "MF",
+        "CountryCodes_iso2": "YT",
+        "CountryCodes_iso3": "MYT",
+        "CountryCodes_isoN": 175,
+        "CountryCodes_tld": "yt",
+        "Capital": "Mamoudzou",
+        "nationality": "Mahoran",
+        "regex": "^\\+262(639|659|269)\\d{6}$"
+    },
+    {
+        "name": "South Africa",
+        "name_ar": "جنوب أفريقيا",
+        "name_fr": "Afrique du Sud",
+        "TelPref": "27",
+        "GeoPt": [
+            -29,
+            24
+        ],
+        "CountryCodes_fips": "SF",
+        "CountryCodes_iso2": "ZA",
+        "CountryCodes_iso3": "ZAF",
+        "CountryCodes_isoN": 710,
+        "CountryCodes_tld": "za",
+        "Capital": "Pretoria",
+        "nationality": "South African",
+        "regex": "^\\+27\\d{9}$"
+    },
+    {
+        "name": "Zambia",
+        "name_ar": "زامبيا",
+        "name_fr": "La Zambie",
+        "TelPref": "260",
+        "GeoPt": [
+            -15,
+            30
+        ],
+        "CountryCodes_fips": "ZA",
+        "CountryCodes_iso2": "ZM",
+        "CountryCodes_iso3": "ZMB",
+        "CountryCodes_isoN": 894,
+        "CountryCodes_tld": "zm",
+        "Capital": "Lusaka",
+        "nationality": "Zambian",
+        "regex": "^\\+260(9\\d{8}|2\\d{8})$"
+    },
+    {
+        "name": "Zimbabwe",
+        "name_ar": "زيمبابوي",
+        "name_fr": "Zimbabwe",
+        "TelPref": "263",
+        "GeoPt": [
+            -20,
+            30
+        ],
+        "CountryCodes_fips": "ZI",
+        "CountryCodes_iso2": "ZW",
+        "CountryCodes_iso3": "ZWE",
+        "CountryCodes_isoN": 716,
+        "CountryCodes_tld": "zw",
+        "Capital": "Harare",
+        "nationality": "Zimbabwean",
+        "regex": "^\\+263(7\\d{8}|2\\d{7})$"
+    }
+]

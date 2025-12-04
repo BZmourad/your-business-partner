@@ -1,0 +1,1 @@
+{{$data->service->reference}}| {{$data->service->name}}

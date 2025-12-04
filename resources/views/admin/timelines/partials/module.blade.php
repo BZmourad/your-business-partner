@@ -1,0 +1,1 @@
+<strong> {{ __(ucfirst($data->module)) }} </strong>

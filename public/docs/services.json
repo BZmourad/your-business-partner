@@ -1,0 +1,22 @@
+[
+    { "fr": "Conseil fiscal aux entreprises", "ar": "الاستشارة الضريبية للشركات", "documents_required": [39, 40, 41, 42, 43] },
+    { "fr": "Optimisation fiscale", "ar": "تحسين الوضع الضريبي", "documents_required": [39, 42, 59, 60, 61] },
+    { "fr": "Déclarations fiscales", "ar": "التصريحات الضريبية", "documents_required": [52, 53, 55, 59, 60] },
+    { "fr": "Audit fiscal", "ar": "التدقيق الضريبي", "documents_required": [39, 42, 52, 53, 61, 62] },
+    { "fr": "Gestion de la TVA", "ar": "إدارة ضريبة القيمة المضافة", "documents_required": [52, 55, 60] },
+    { "fr": "Gestion de l’impôt sur les sociétés", "ar": "إدارة ضريبة الشركات", "documents_required": [39, 40, 42, 59, 60] },
+    { "fr": "Gestion de l’impôt sur le revenu", "ar": "إدارة ضريبة الدخل", "documents_required": [52, 53, 60] },
+    { "fr": "Assistance en matière de contrôle fiscal", "ar": "المساعدة في التفتيش الضريبي", "documents_required": [39, 42, 52, 53, 61] },
+    { "fr": "Planification fiscale internationale", "ar": "التخطيط الضريبي الدولي", "documents_required": [39, 42, 59, 60, 61, 62] },
+    { "fr": "Assistance en matière de prix de transfert", "ar": "المساعدة في تسعير التحويلات", "documents_required": [39, 42, 59, 60, 61, 62] },
+    { "fr": "Conseil en droit douanier et droits indirects", "ar": "الاستشارة في القانون الجمركي والضرائب غير المباشرة", "documents_required": [39, 42, 55, 57] },
+    { "fr": "Assistance en matière de contentieux fiscal", "ar": "المساعدة في المنازعات الضريبية", "documents_required": [39, 42, 52, 53, 61, 82, 85] },
+    { "fr": "Études d’impact fiscal", "ar": "دراسات الأثر الضريبي", "documents_required": [39, 42, 59, 60] },
+    { "fr": "Veille et mise à jour réglementaire", "ar": "متابعة وتحديث اللوائح", "documents_required": [39, 42] },
+    { "fr": "Formation en fiscalité pour les entreprises", "ar": "التكوين في المجال الضريبي للشركات", "documents_required": [47, 48, 49, 50, 51] },
+    { "fr": "Conseil en fiscalité immobilière", "ar": "الاستشارة الضريبية العقارية", "documents_required": [65, 66, 67, 68, 69, 70] },
+    { "fr": "Conseil en fiscalité personnelle", "ar": "الاستشارة الضريبية للأفراد", "documents_required": [1, 2, 3, 4, 5, 6, 7, 71, 74] },
+    { "fr": "Conseil en fiscalité des non-résidents", "ar": "الاستشارة الضريبية لغير المقيمين", "documents_required": [1, 2, 3, 5, 36, 37] },
+    { "fr": "Structuration de transactions et opérations financières", "ar": "هيكلة العمليات المالية والتجارية", "documents_required": [52, 53, 56, 62] },
+    { "fr": "Assistance à la création d’entreprise", "ar": "المساعدة في إنشاء الشركات", "documents_required": [40, 41, 44, 45] }
+]

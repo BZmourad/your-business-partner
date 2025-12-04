@@ -1,0 +1,34 @@
+FTP:
+ftp.cluster100.hosting.ovh.net
+21
+mbzsoll
+wtTPXx7Fvq2EpVNZp4uKa8
+
+SSH:
+ssh mbzsoll@ssh.cluster100.hosting.ovh.net -p 22
+wtTPXx7Fvq2EpVNZp4uKa8
+
+
+MySQL:
+ Serveur        : mbzsolllotfiged.mysql.db
+ Utilisateur    : mbzsolllotfiged
+ Nom de la base : mbzsolllotfiged
+ Mot de passe   : AAA123aaa
+
+
+wordpress:admin3751
+pass: UETeeXe2N22n
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDTri5L4IKzaJyf48H3qxH+mHnLV8ilQpk9etHvEo/NH6R+Cw6iP+vCR87q8wBThwx8mMqGPaRVlBQ6a4TiH/Yf1QnQMYNOJ1fLx4ZRH2ndfovTOLlf93vI29ge2k+4rkFRIM3r4vdAbkB91yscR3VyhgRLJqDNAGi1l8TsUMD/48aIg/9f/EllIqgjgcjBhH19kqfM7MUrnLkfId24jhGanNxVpAU3xRGEKrvolfbmOBqUA+GlkRcU1kuYJH9WNBRwfiGgUQawaucbTy8Vf1KWs3qURHJi6utLfacieYkgAgZACkmdF8sJ0hTettOU0mJAYdJkn4Uxbqzk8bkO8agyWQPKdNJq/0ifIHAQkt7+vk8+zW5d9Jo1CaEkq9oXdN5LDQ1ZGJ83fjgDwcA+Yrc4axuKQz75nVnJsPQ/OubV/LcABe4Cm4ErOgBDs7Ws0wPYtGiQj4mQrgFibzQeBV3xpSDTVu8KsHn02OBJZFBolZ0bkdclT3tVtk9NrHO0t2P8WFgXNtdNuJabkLbCsRGD6dLU55tu7voSmftEwbLWf6A/chEbL7ueCSIEu6+3zuIPw+/Gx3teet4FJEzMAWW3zoR11W8720gWX817B+HOa7O/BIZ3uCiSjW5T0KrTsrN081u0PUybf27+vsrUX56EZXbH7pVKyK+jV7+Mn3ZczQ==
+
+
+ your-business-partner.tn
+klMkF3T1IVCOgp6BlrFSUcHNCIr2Ma9z
+
+C6RvxD08a6JEqECHaHz2n1G2a3223ylv
+
+cat /etc/os-release
+cd /home/mbzsoll/lotfiged/public/wkhtmltox
+wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.buster_amd64.deb
+dpkg -i wkhtmltox_0.12.6-1.focal_arm64.deb
