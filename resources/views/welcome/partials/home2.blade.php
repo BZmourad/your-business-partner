@@ -185,13 +185,6 @@
                     <i class="bx bx-x"></i>
                 </span>
             </div>
-            <div class="sidebar-about">
-                <div class="title">
-                    <p>
-                        {{ __("Contact us today to schedule a consultation and optimize your tax strategy. We’re here to answer your questions and support your business growth.", [], $l)}}
-                    </p>
-                </div>
-            </div>
             <div class="contact-us">
                 <h2>{{ __("Contact Us", [], $l) }}</h2>
                 <ul>

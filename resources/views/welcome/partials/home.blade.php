@@ -185,13 +185,6 @@
                     <i class="bx bx-x"></i>
                 </span>
             </div>
-            <div class="sidebar-about">
-                <div class="title">
-                    <p>
-                        {{ __("Contact us today to schedule a consultation and optimize your tax strategy. We’re here to answer your questions and support your business growth.", [], $l)}}
-                    </p>
-                </div>
-            </div>
             <div class="contact-us">
                 <h2>{{ __("Contact Us", [], $l) }}</h2>
                 <ul>
@@ -214,41 +207,6 @@
                     <li>
                         <i class='bx bx-current-location'></i>
                         {{ __("Address", [], $l) }}: {{ __("5 -ème étage bureau 2 , immeuble ALQUDS : 85-87 Rue de La Palestine, Tunis, Tunis, Tunisia, 1002", [], $l) }}
-                    </li>
-                </ul>
-            </div>
-            <div class="sidebar-instagram-feed">
-                <h2>{{ __("Instagram", [], $l)}}</h2>
-                <ul>
-                    <li>
-                        <a href="#">
-                            <img src="{{ asset('welcome/assets/img/instagram/instagram1.jpg') }}" alt="image">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="{{ asset('welcome/assets/img/instagram/instagram2.jpg') }}" alt="image">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="{{ asset('welcome/assets/img/instagram/instagram3.jpg') }}" alt="image">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="{{ asset('welcome/assets/img/instagram/instagram4.jpg') }}" alt="image">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="{{ asset('welcome/assets/img/instagram/instagram5.jpg') }}" alt="image">
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <img src="{{ asset('welcome/assets/img/instagram/instagram6.jpg') }}" alt="image">
-                        </a>
                     </li>
                 </ul>
             </div>
@@ -275,6 +233,18 @@
                             <i class="bx bxl-youtube"></i>
                         </a>
                     </li>
+                </ul>
+            </div>
+            <div class="sidebar-instagram-feed mt-2">
+                <h2>{{ __("Instagram", [], $l)}}</h2>
+                <ul>
+                    @for ($i = 1; $i < 7; $i++)
+                        <li>
+                            <a href="#">
+                                <img src="{{ asset('welcome/assets/img/instagram/'.$i.'.jpeg') }}" alt="image">
+                            </a>
+                        </li> 
+                    @endfor
                 </ul>
             </div>
         </div>
