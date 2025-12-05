@@ -19,6 +19,7 @@
                                     @if($item['twitter'])<li><a href="{{$item['twitter']}}" target="_blank"><i class='bx bxl-twitter'></i></a></li>  @endif
                                     @if($item['linkedin'])<li><a href="{{$item['linkedin']}}" target="_blank"><i class='bx bxl-linkedin'></i></a></li>  @endif
                                     @if($item['instagram'])<li><a href="{{$item['instagram']}}" target="_blank"><i class='bx bxl-instagram'></i></a></li>  @endif
+                                    @if($item['tiktok'])<li><a href="{{$item['tiktok']}}" target="_blank"><i class='bx bxl-tiktok'></i></a></li>  @endif
                                 </ul>
                             </div>
                         </div>

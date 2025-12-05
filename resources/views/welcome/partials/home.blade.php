@@ -8,7 +8,7 @@
                             <ul>
                                 <li>
                                     <div class="head-icon">
-                                        <i class='bx bxs-location-plus'></i>
+                                        <i class='bx bxs-map'></i>
                                     </div>
                                     <a href="#"> {{ __("Rue de La Palestine, Tunis, 1002", [], $l) }}</a>
                                 </li>
@@ -33,12 +33,12 @@
                         <div class="top-social-link">
                             <ul>
                                 <li>
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.facebook.com/yourbusinesspartnertn" target="_blank">
                                         <i class='bx bxl-facebook'></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.linkedin.com/in/lotfi-alimi-b23a59130/" target="_blank">
                                         <i class='bx bxl-linkedin'></i>
                                     </a>
                                 </li>
@@ -205,8 +205,8 @@
                         <a href="tel:+21636643848">+216 36 643 848</a>
                     </li>
                     <li>
-                        <i class='bx bx-current-location'></i>
-                        {{ __("Address", [], $l) }}: {{ __("5 -ème étage bureau 2 , immeuble ALQUDS : 85-87 Rue de La Palestine, Tunis, Tunis, Tunisia, 1002", [], $l) }}
+                        <i class='bx bx-map'></i>
+                        <a href="https://maps.app.goo.gl/anb7BHcUYdM8XTwz7" target="_blanc"> {{ __("5 -ème étage bureau 2 , immeuble ALQUDS : 85-87 Rue de La Palestine, Tunis, Tunis, Tunisia, 1002", [], $l) }}</a>
                     </li>
                 </ul>
             </div>
@@ -214,37 +214,20 @@
                 <h2>{{ __("Follow Us", [], $l)}}</h2>
                 <ul class="social-wrap">
                     <li>
-                        <a href="#" target="_blank">
-                            <i class="bx bxl-twitter"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" target="_blank">
-                            <i class="bx bxl-instagram"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#" target="_blank">
+                        <a href="https://www.facebook.com/yourbusinesspartnertn" target="_blank">
                             <i class="bx bxl-facebook"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="#" target="_blank">
-                            <i class="bx bxl-youtube"></i>
+                        <a href="https://www.linkedin.com/in/lotfi-alimi-b23a59130/" target="_blank">
+                            <i class="bx bxl-linkedin"></i>
                         </a>
                     </li>
-                </ul>
-            </div>
-            <div class="sidebar-instagram-feed mt-2">
-                <h2>{{ __("Instagram", [], $l)}}</h2>
-                <ul>
-                    @for ($i = 1; $i < 7; $i++)
-                        <li>
-                            <a href="#">
-                                <img src="{{ asset('welcome/assets/img/instagram/'.$i.'.jpeg') }}" alt="image">
-                            </a>
-                        </li> 
-                    @endfor
+                    <li>
+                        <a href="https://www.tiktok.com/@yourbusinesspartnertn?is_from_webapp=1&sender_device=pc" target="_blank">
+                            <i class="bx bxl-tiktok"></i>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>

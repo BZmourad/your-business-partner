@@ -9,9 +9,13 @@ use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\DB;
 use App\Models\Contact;
 use Artesaos\SEOTools\Facades\SEOTools;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\ContactNotification;
 
 class WelcomeController extends Controller
 {
+    protected $mailNotify = "ybp.businesstn@gmail.com";
+
     protected $services = [
         [
             'slug' => 'creation_entreprises',
@@ -504,6 +508,7 @@ class WelcomeController extends Controller
             "instagram" => "",
             "name" => "Maître Lotfi Alimi",
             "titre" => "Manager",
+            "tiktok" => "https://www.tiktok.com/@yourbusinesspartnertn?is_from_webapp=1&sender_device=pc"
         ]
     ];
 
@@ -699,6 +704,8 @@ class WelcomeController extends Controller
             DB::beginTransaction();
             $contact = Contact::create($request->all());
             $contact->update(['reference'=>getRefrence($contact->id, "CT")]);
+            $contactData = $request->all();
+            Mail::to($this->mailNotify)->send(new ContactNotification($contactData));
             DB::commit();
             return response()->json(['success' => __('Action successfully completed.')]);
         } catch (\Exception $e) {

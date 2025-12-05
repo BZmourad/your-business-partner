@@ -43,7 +43,7 @@
                         <i class='bx bx-map'></i>
                         <div class="content">
                             <h3>{{ __("Address", [], $l)}}</h3>
-                            <p>{{ __("5 -ème étage bureau 2 , immeuble ALQUDS : 85-87 Rue de La Palestine, Tunis, Tunis, Tunisia, 1002", [], $l)}}</p>
+                            <p><a href="https://maps.app.goo.gl/anb7BHcUYdM8XTwz7"><span>{{ __("5 -ème étage bureau 2 , immeuble ALQUDS : 85-87 Rue de La Palestine, Tunis, Tunis, Tunisia, 1002", [], $l)}}</span></a></p>
                         </div>
                     </div>
                 </div>

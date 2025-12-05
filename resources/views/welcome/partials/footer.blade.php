@@ -14,20 +14,14 @@
                     </p>
                     <ul class="social-link">
                         <li>
-                            <a href="#" target="_blank"><i class='bx bxl-facebook'></i></a>
+                            <a href="https://www.facebook.com/yourbusinesspartnertn" target="_blank"><i class='bx bxl-facebook'></i></a>
                         </li> 
                         <li>
-                            <a href="#" target="_blank"><i class='bx bxl-twitter'></i></a>
+                            <a href="https://www.linkedin.com/in/lotfi-alimi-b23a59130/" target="_blank"><i class='bx bxl-linkedin'></i></a>
                         </li> 
                         <li>
-                            <a href="#" target="_blank"><i class='bx bxl-instagram'></i></a>
-                        </li> 
-                        <li>
-                            <a href="#" target="_blank"><i class='bx bxl-pinterest-alt'></i></a>
-                        </li> 
-                        <li>
-                            <a href="#" target="_blank"><i class='bx bxl-youtube'></i></a>
-                        </li> 
+                            <a href="https://www.tiktok.com/@yourbusinesspartnertn?is_from_webapp=1&sender_device=pc" target="_blank"><i class='bx bxl-tiktok'></i></a>
+                        </li>
                     </ul>
                 </div>
             </div>
