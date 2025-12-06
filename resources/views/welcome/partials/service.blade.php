@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-8">
                 <div class="services-details-content">
-                    <img src="{{ asset('welcome/assets/img/services/services-details.jpg') }}" alt="{{ $service['name'] }}">
+                    <img src="{{ asset($service['image']) }}" alt="{{ $service['name'] }}">
                     <div class="row border-bottom">
                         @foreach($service['cards'] as $card)
                         <div class="col-lg-6">

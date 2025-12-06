@@ -2,26 +2,26 @@
 
 ## Informations du contact
 
-<em>**Nom :**</em>  {{ $contactData['name'] }} <br>
+**Nom :**  {{ $contactData['name'] }} <br>
 
 @if(!empty($contactData['service']))
-    <em>**Service :**</em>  {{ $contactData['service'] }} <br>
+    **Service :**  {{ $contactData['service'] }} <br>
 @endif
 
 @if(!empty($contactData['email']))
-    <em>**Email :**</em>  {{ $contactData['email'] }} <br>
+    **Email :**  {{ $contactData['email'] }} <br>
 @endif
 
-<em>**Téléphone :**</em>  {{ $contactData['phone'] }} <br>
+**Téléphone :**  {{ $contactData['phone'] }} <br>
 
 @if(!empty($contactData['address']))
-<em>**Adresse :**</em>  {{ $contactData['address'] }} <br>
+**Adresse :**  {{ $contactData['address'] }} <br>
 @endif
 
-<em>**Sujet :**</em>  {{ $contactData['subject'] }} <br>
+**Sujet :**  {{ $contactData['subject'] }} <br>
 
 
-<em>## Message:</em>  <br>
+## Message:  <br>
 {{ $contactData['message'] }} <br>
 
 @component('mail::subcopy')

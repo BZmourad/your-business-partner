@@ -18,6 +18,7 @@ class WelcomeController extends Controller
 
     protected $services = [
         [
+            'image' => 'welcome/assets/img/services/creation_entreprises.jpg',
             'slug' => 'creation_entreprises',
             'name' => 'Création d\'entreprises',
             'description' => 'Accompagnement complet pour la création de votre entreprise en Tunisie',
@@ -78,6 +79,7 @@ class WelcomeController extends Controller
             'tags' => ['Company Formation', 'Business Setup', 'Legal Structure', 'Registration', 'Tax Optimization', 'Compliance']
         ],
         [
+            'image' => 'welcome/assets/img/services/conseil_fiscal_entreprises.jpg',
             'slug' => 'conseil_fiscal_entreprises',
             'name' => 'Conseil fiscal aux entreprises',
             'description' => 'Optimisation fiscale et conseil stratégique pour votre entreprise',
@@ -138,6 +140,7 @@ class WelcomeController extends Controller
             'tags' => ['Tax Consulting', 'VAT Compliance', 'Tax Optimization', 'Corporate Tax', 'Tax Audit', 'Fiscal Planning']
         ],
         [
+            'image' => 'welcome/assets/img/services/arbitrage_mediation.jpg',
             'slug' => 'arbitrage_mediation',
             'name' => 'Arbitrage et médiation',
             'description' => 'Résolution des conflits commerciaux par arbitrage et médiation professionnelle',
@@ -198,6 +201,7 @@ class WelcomeController extends Controller
             'tags' => ['Arbitration', 'Mediation', 'Dispute Resolution', 'Commercial Conflicts', 'Legal Disputes', 'Conflict Management']
         ],
         [
+            'image' => 'welcome/assets/img/services/domiciliation.jpg',
             'slug' => 'domiciliation',
             'name' => 'Domiciliation',
             'description' => 'Services de domiciliation commerciale avec gestion de courrier',
@@ -256,6 +260,7 @@ class WelcomeController extends Controller
             'tags' => ['Domiciliation', 'Virtual Office', 'Business Address', 'Mail Handling', 'Meeting Rooms', 'Call Services']
         ],
         [
+            'image' => 'welcome/assets/img/services/etudes_projets.jpg',
             'slug' => 'etudes_projets',
             'name' => 'Études de Projets',
             'description' => 'Analyse et études de faisabilité pour vos projets d\'investissement',
@@ -316,6 +321,7 @@ class WelcomeController extends Controller
             'tags' => ['Feasibility Studies', 'Market Research', 'Project Analysis', 'Investment Studies', 'Business Planning', 'Risk Assessment']
         ],
         [
+            'image' => 'welcome/assets/img/services/conseil_investissement_finance.jpg',
             'slug' => 'conseil_investissement_finance',
             'name' => 'Conseil en investissement et finance d\'entreprise',
             'description' => 'Services leasing, assurance et financement d\'entreprise',
@@ -376,6 +382,7 @@ class WelcomeController extends Controller
             'tags' => ['Investment Consulting', 'Business Financing', 'Leasing Services', 'Corporate Insurance', 'Financial Advisory', 'Capital Raising']
         ],
         [
+            'image' => 'welcome/assets/img/services/consulting_immobilier.jpg',
             'slug' => 'consulting_immobilier',
             'name' => 'Consulting immobilier',
             'description' => 'Conseil et accompagnement pour vos projets immobiliers',
@@ -436,6 +443,7 @@ class WelcomeController extends Controller
             'tags' => ['Real Estate Consulting', 'Property Investment', 'Real Estate Market', 'Property Transactions', 'Real Estate Due Diligence', 'Property Management']
         ],
         [
+            'image' => 'welcome/assets/img/services/business_pro_services.jpg',
             'slug' => 'business_pro_services',
             'name' => 'Business Pro Services',
             'description' => 'Services VIP : réservations, visas, location voiture, hébergement web, etc.',
