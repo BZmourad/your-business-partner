@@ -61,18 +61,36 @@ def main():
         return
     
     # Set up paths to scan
+    #app_path = os.path.join(project_path, 'app', 'Http', 'Controllers')
     views_path = os.path.join(project_path, 'resources', 'views', 'welcome')
     
     # Extract translations
+    #app_translations = extract_translation_strings(app_path)
+    translation_pattern = re.compile(r'__\((.*?)\)')
+    translations = set()
+    file_path= "C:/laragon/www/apps/your-business-partner/app/Http/Controllers/WelcomeController.php"
+    with open(file_path, 'r', encoding='utf-8') as f:
+        try:
+            content = f.read()
+            matches = translation_pattern.findall(content)
+            for match in matches:
+                # Remove escaped quotes and add to set to avoid duplicates
+                clean_match = match.replace("\\'", "'").replace('\\"', '"')
+                translations.add(clean_match)
+        except UnicodeDecodeError:
+            print(f"Could not read file: {file_path}")
+    app_translations = sorted(translations)
     views_translations = extract_translation_strings(views_path)
-    all_translations = views_translations
+    all_translations = app_translations + views_translations
     all_translations_unique = sorted(set(all_translations))  # Remove duplicates
+    
+    # Extract fillable fields
     
     # Write to files
     with open('translation.txt', 'w', encoding='utf-8') as f:
         for item in all_translations_unique:
             f.write(f"{item}\n")
-
+    
     
     print(f"Found {len(all_translations_unique)} unique translation strings (saved to translation.txt)")
 
