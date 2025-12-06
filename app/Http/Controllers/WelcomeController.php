@@ -847,10 +847,7 @@ class WelcomeController extends Controller
             
             foreach ($ogImages as $image) {
                 if (is_array($image)) {
-                    SEOTools::opengraph()->addImage($image['url'], [
-                        'width' => $image['width'],
-                        'height' => $image['height']
-                    ]);
+                    SEOTools::opengraph()->addImage($image['url']);
                 } else {
                     SEOTools::opengraph()->addImage($image);
                 }
@@ -944,7 +941,7 @@ class WelcomeController extends Controller
         // Données structurées LocalBusiness améliorées
         $jsonLd = \Artesaos\SEOTools\Facades\JsonLdMulti::newJsonLd();
         $jsonLd->setType(['LocalBusiness', 'ProfessionalService']);
-        $jsonLd->setName('Your Business Partner (YBP)');
+        $jsonLd->setTitle('Your Business Partner (YBP)');
         
         // Contact point
         $jsonLd->addValue('contactPoint', [
@@ -1054,9 +1051,8 @@ class WelcomeController extends Controller
         // Organisation
         $orgJsonLd = \Artesaos\SEOTools\Facades\JsonLdMulti::newJsonLd();
         $orgJsonLd->setType('Organization');
-        $orgJsonLd->setName('Your Business Partner (YBP)');
+        $orgJsonLd->setTitle('Your Business Partner (YBP)');
         $orgJsonLd->setUrl(url('/'));
-        $orgJsonLd->setLogo(asset('welcome/assets/img/ybp/1.png'));
         $orgJsonLd->addValue('foundingDate', '2025'); // À adapter selon la date de création
         $orgJsonLd->addValue('founder', [
             '@type' => 'Person',
