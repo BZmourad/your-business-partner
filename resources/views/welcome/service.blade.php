@@ -42,17 +42,7 @@
         <link rel="stylesheet" type="text/css" href="{{ asset('modern-admin/app-assets/css/plugins/extensions/toastr.min.css') }}">
         <title>{{ __("YBP - YOUR BUSINESS PARTNER", [], $l)}}</title>
         <link rel="icon" type="image/png" href="{{ asset('welcome/assets/img/logo-favicon.png') }}">
-        <script type="text/javascript">
-            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-            (function(){
-                var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-                s1.async=true;
-                s1.src='https://embed.tawk.to/6920a428430d9c1961f48dbe/1jajo2g7n';
-                s1.charset='UTF-8';
-                s1.setAttribute('crossorigin','*');
-                s0.parentNode.insertBefore(s1,s0);
-            })();
-        </script>
+        @include('welcome.partials.chat')
     </head>
     <body>
         @include('welcome.partials.preloader')
